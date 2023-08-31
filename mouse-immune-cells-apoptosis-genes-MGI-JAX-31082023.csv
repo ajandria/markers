@@ -1,0 +1,542 @@
+MGI_Gene_Marker_ID,Symbol,Name,Chr,Qualifier,Annotated_Term,Context,Proteoform,Evidence,Inferred_From,References,component
+MGI:87916,Ada,adenosine deaminase,2,NA,mature B cell apoptotic process,happens in mature B cell,NA,IMP,MGI:1857117,J:106733,B_cell_apoptotic_process
+MGI:87916,Ada,adenosine deaminase,2,NA,mature B cell apoptotic process,happens in mature B cell,NA,IMP,MGI:2683027,J:106733,B_cell_apoptotic_process
+MGI:87916,Ada,adenosine deaminase,2,NA,negative regulation of mature B cell apoptotic process,negatively regulates mature B cell apoptotic process,NA,IMP,MGI:1857117,J:106733,B_cell_apoptotic_process
+MGI:87916,Ada,adenosine deaminase,2,NA,negative regulation of mature B cell apoptotic process,negatively regulates mature B cell apoptotic process,NA,IMP,MGI:2683027,J:106733,B_cell_apoptotic_process
+MGI:107168,Aurkb,aurora kinase B,11,NA,negative regulation of B cell apoptotic process,NA,NA,ISO,Q96GD4,J:164563,B_cell_apoptotic_process
+MGI:1097161,Bak1,BCL2-antagonist/killer 1,17,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:99702,J:100463,B_cell_apoptotic_process
+MGI:99702,Bax,BCL2-associated X protein,7,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:1097161,J:100463,B_cell_apoptotic_process
+MGI:99702,Bax,BCL2-associated X protein,7,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:97250,J:72281,B_cell_apoptotic_process
+MGI:99702,Bax,BCL2-associated X protein,7,NA,B cell apoptotic process,NA,NA,ISO,Q07812,J:164563,B_cell_apoptotic_process
+MGI:99702,Bax,BCL2-associated X protein,7,NA,B cell receptor apoptotic signaling pathway,NA,NA,ISO,Q07812,J:164563,B_cell_apoptotic_process
+MGI:99702,Bax,BCL2-associated X protein,7,NA,positive regulation of B cell apoptotic process,positively regulates B cell apoptotic process,NA,IGI,MGI:97250,J:72281,B_cell_apoptotic_process
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,NA,B cell apoptotic process,happens in B cell,NA,IDA,NA,J:16871,B_cell_apoptotic_process
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,NA,B cell apoptotic process,"happens in B cell,happens in bone marrow,happens in B cell,happens in thymus",NA,IMP,MGI:2156165,J:14685,B_cell_apoptotic_process
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IDA,NA,J:16871,B_cell_apoptotic_process
+MGI:102687,Bcl2a1a,B cell leukemia/lymphoma 2 related protein A1a,9,NA,B cell apoptotic process,happens in B cell,NA,IDA,NA,J:86773,B_cell_apoptotic_process
+MGI:102687,Bcl2a1a,B cell leukemia/lymphoma 2 related protein A1a,9,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IDA,NA,J:86773,B_cell_apoptotic_process
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,NA,B cell apoptotic process,NA,NA,IDA,NA,J:61738,B_cell_apoptotic_process
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,NOT,B cell apoptotic process,NA,NA,IMP,MGI:2158304,J:67297,B_cell_apoptotic_process
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,NA,negative regulation of mature B cell apoptotic process,NA,NA,ISO,O95999,J:164563,B_cell_apoptotic_process
+MGI:88323,Cd24a,CD24a antigen,10,NA,B cell apoptotic process,happens in precursor B cell,NA,IDA,NA,J:125136,B_cell_apoptotic_process
+MGI:88323,Cd24a,CD24a antigen,10,NA,positive regulation of B cell apoptotic process,positively regulates B cell apoptotic process,NA,IDA,NA,J:125136,B_cell_apoptotic_process
+MGI:88338,Cd44,CD44 antigen,2,NA,negative regulation of mature B cell apoptotic process,NA,NA,IDA,NA,J:131317,B_cell_apoptotic_process
+MGI:96534,Cd74,"CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)",18,NA,negative regulation of mature B cell apoptotic process,NA,NA,IMP,NA,J:131317,B_cell_apoptotic_process
+MGI:104686,Crkl,v-crk avian sarcoma virus CT10 oncogene homolog-like,16,NA,B cell apoptotic process,NA,NA,IMP,MGI:4435697,J:260356,B_cell_apoptotic_process
+MGI:2444668,Fnip1,folliculin interacting protein 1,11,NA,B cell apoptotic process,happens in precursor B cell,NA,IMP,MGI:5437714,J:187318,B_cell_apoptotic_process
+MGI:2444668,Fnip1,folliculin interacting protein 1,11,NA,positive regulation of B cell apoptotic process,NA,NA,IGI,MGI:97250,J:187318,B_cell_apoptotic_process
+MGI:2444668,Fnip1,folliculin interacting protein 1,11,NA,positive regulation of B cell apoptotic process,positively regulates B cell apoptotic process,NA,IMP,MGI:5437714,J:187318,B_cell_apoptotic_process
+MGI:1914004,Foxp1,forkhead box P1,6,NA,negative regulation of B cell apoptotic process,NA,NA,ISO,Q9H334,J:164563,B_cell_apoptotic_process
+MGI:2676364,Hsh2d,hematopoietic SH2 domain containing,8,NA,negative regulation of B cell apoptotic process,NA,NA,IDA,NA,J:96984,B_cell_apoptotic_process
+MGI:96548,Il2,interleukin 2,3,NA,negative regulation of B cell apoptotic process,NA,NA,ISO,P60568,J:40789,B_cell_apoptotic_process
+MGI:96552,Il3,interleukin 3,11,NA,B cell apoptotic process,happens in B cell,NA,IDA,NA,J:24973,B_cell_apoptotic_process
+MGI:96552,Il3,interleukin 3,11,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IDA,NA,J:24973,B_cell_apoptotic_process
+MGI:96537,Il10,interleukin 10,1,NA,positive regulation of B cell apoptotic process,NA,NA,ISO,P22301,J:40789,B_cell_apoptotic_process
+MGI:1890474,Il21,interleukin 21,3,NA,B cell apoptotic process,NA,NA,NAS,NA,J:93740,B_cell_apoptotic_process
+MGI:109334,Irs2,insulin receptor substrate 2,8,NA,negative regulation of B cell apoptotic process,NA,NA,IMP,NA,J:161023,B_cell_apoptotic_process
+MGI:96892,Lyn,"LYN proto-oncogene, Src family tyrosine kinase",4,NA,regulation of B cell apoptotic process,NA,NA,IBA,PTN008405048,J:265628,B_cell_apoptotic_process
+MGI:96892,Lyn,"LYN proto-oncogene, Src family tyrosine kinase",4,NA,regulation of B cell apoptotic process,NA,NA,IMP,NA,J:35280,B_cell_apoptotic_process
+MGI:96982,Mif,macrophage migration inhibitory factor (glycosylation-inhibiting factor),10,NA,negative regulation of mature B cell apoptotic process,NA,NA,IDA,NA,J:131317,B_cell_apoptotic_process
+MGI:3619065,Mir17,microRNA 17,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619065,Mir17,microRNA 17,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619065,Mir17,microRNA 17,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619065,Mir17,microRNA 17,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619065,Mir17,microRNA 17,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:2676844,Mir18,microRNA 18,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:2676844,Mir18,microRNA 18,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:2676844,Mir18,microRNA 18,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:2676844,Mir18,microRNA 18,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:2676844,Mir18,microRNA 18,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3718454,Mir18b,microRNA 18b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3618743,Mir19a,microRNA 19a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3618743,Mir19a,microRNA 19a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3618743,Mir19a,microRNA 19a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3618743,Mir19a,microRNA 19a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3618743,Mir19a,microRNA 19a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3629917,Mir19b-1,microRNA 19b-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:2676868,Mir19b-2,microRNA 19b-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:2676872,Mir20a,microRNA 20a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:2676872,Mir20a,microRNA 20a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:2676872,Mir20a,microRNA 20a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:2676872,Mir20a,microRNA 20a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:2676872,Mir20a,microRNA 20a,14,NA,B cell apoptotic process,happens in precursor B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3618748,Mir20b,microRNA 20b,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619266,Mir25,microRNA 25,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,NA,J:134861,B_cell_apoptotic_process
+MGI:3619266,Mir25,microRNA 25,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,NA,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3629918,Mir92-1,microRNA 92-1,14,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619438,Mir92-2,microRNA 92-2,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619439,Mir93,microRNA 93,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619120,Mir106a,microRNA 106a,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619370,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619060,Mir106b,microRNA 106b,5,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676844,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676868,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:2676872,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618743,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3618748,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619060,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619065,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619120,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619266,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619438,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3619439,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629917,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3629918,J:134861,B_cell_apoptotic_process
+MGI:3619370,Mir363,microRNA 363,X,NA,negative regulation of B cell apoptotic process,negatively regulates B cell apoptotic process,NA,IGI,MGI:3718454,J:134861,B_cell_apoptotic_process
+MGI:97250,Myc,myelocytomatosis oncogene,15,NA,B cell apoptotic process,happens in B cell,NA,IGI,MGI:99702,J:72281,B_cell_apoptotic_process
+MGI:97250,Myc,myelocytomatosis oncogene,15,NA,B cell apoptotic process,"happens in B cell,happens in spleen",NA,IMP,MGI:1931143,J:115648,B_cell_apoptotic_process
+MGI:97250,Myc,myelocytomatosis oncogene,15,NA,positive regulation of B cell apoptotic process,positively regulates B cell apoptotic process,NA,IGI,MGI:99702,J:72281,B_cell_apoptotic_process
+MGI:1931595,Nfkbiz,"nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, zeta",16,NA,B cell receptor apoptotic signaling pathway,NA,NA,IDA,NA,J:200520,B_cell_apoptotic_process
+MGI:1931051,Noc2l,NOC2 like nucleolar associated transcriptional repressor,4,NA,negative regulation of B cell apoptotic process,NA,NA,ISO,Q9Y3T9,J:164563,B_cell_apoptotic_process
+MGI:1913862,Ormdl3,ORM1-like 3 (S. cerevisiae),11,NA,negative regulation of B cell apoptotic process,happens in spleen,NA,IMP,MGI:6369059,J:251260,B_cell_apoptotic_process
+MGI:1913862,Ormdl3,ORM1-like 3 (S. cerevisiae),11,NA,negative regulation of B cell apoptotic process,NA,NA,ISO,Q8N138,J:251260,B_cell_apoptotic_process
+MGI:104879,Pdcd1,programmed cell death 1,1,NA,B cell apoptotic process,happens in B cell,NA,IMP,NA,J:204764,B_cell_apoptotic_process
+MGI:104879,Pdcd1,programmed cell death 1,1,NA,negative regulation of B cell apoptotic process,"happens in Tr1 cell,negatively regulates B cell apoptotic process",NA,IMP,NA,J:204764,B_cell_apoptotic_process
+MGI:108022,Pkn1,protein kinase N1,8,NA,B cell apoptotic process,NA,NA,IMP,MGI:5475202,J:193187,B_cell_apoptotic_process
+MGI:109583,Pten,phosphatase and tensin homolog,19,NA,regulation of B cell apoptotic process,regulates B cell apoptotic process,NA,IMP,MGI:1857466,J:53065,B_cell_apoptotic_process
+MGI:1914515,Slc39a10,"solute carrier family 39 (zinc transporter), member 10",1,NA,negative regulation of B cell apoptotic process,NA,NA,IMP,MGI:5642301,J:213935,B_cell_apoptotic_process
+MGI:2151075,Tnfrsf21,"tumor necrosis factor receptor superfamily, member 21",17,NA,B cell apoptotic process,NA,NA,IMP,NA,J:109341,B_cell_apoptotic_process
+MGI:2143599,Traf3ip2,TRAF3 interacting protein 2,10,NA,B cell apoptotic process,NA,NA,IMP,MGI:3510784,J:93923,B_cell_apoptotic_process
+MGI:1347244,Axl,AXL receptor tyrosine kinase,7,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,P30530,J:164563,dendritic_cell_apoptotic_process
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,NA,dendritic cell apoptotic process,happens in dendritic cell,NA,IDA,NA,J:118686,dendritic_cell_apoptotic_process
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,NA,negative regulation of dendritic cell apoptotic process,negatively regulates dendritic cell apoptotic process,NA,IDA,NA,J:118686,dendritic_cell_apoptotic_process
+MGI:88139,Bcl2l1,BCL2-like 1,2,NA,dendritic cell apoptotic process,happens in dendritic cell,NA,IDA,NA,J:118686,dendritic_cell_apoptotic_process
+MGI:88139,Bcl2l1,BCL2-like 1,2,NA,negative regulation of dendritic cell apoptotic process,negatively regulates dendritic cell apoptotic process,NA,IDA,NA,J:118686,dendritic_cell_apoptotic_process
+MGI:1346316,Ccl19,C-C motif chemokine ligand 19,4,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,Q99731,J:164563,dendritic_cell_apoptotic_process
+MGI:1891387,Ccl19-ps1,"C-C motif chemokine ligand 19, pseudogene 1",4,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,Q99731,J:164563,dendritic_cell_apoptotic_process
+MGI:1891391,Ccl19-ps3,"C-C motif chemokine ligand 19, pseudogene 3",4,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,Q99731,J:164563,dendritic_cell_apoptotic_process
+MGI:3708691,Ccl19-ps4,"C-C motif chemokine ligand 19, pseudogene 4",4,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,Q99731,J:164563,dendritic_cell_apoptotic_process
+MGI:3693096,Ccl19-ps5,"C-C motif chemokine ligand 19, pseudogene 5",4,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,Q99731,J:164563,dendritic_cell_apoptotic_process
+MGI:5434459,Ccl19-ps6,"C-C motif chemokine ligand 19, pseudogene 6",4,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,Q99731,J:164563,dendritic_cell_apoptotic_process
+MGI:1349183,Ccl21a,C-C motif chemokine ligand 21 (serine),4,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,O00585,J:164563,dendritic_cell_apoptotic_process
+MGI:1349182,Ccl21b,C-C motif chemokine ligand 21B (leucine),4,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,O00585,J:164563,dendritic_cell_apoptotic_process
+MGI:5434896,Ccl21d,C-C motif chemokine ligand 21D,4,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,O00585,J:164563,dendritic_cell_apoptotic_process
+MGI:103556,Cxcl12,C-X-C motif chemokine ligand 12,6,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,P48061,J:164563,dendritic_cell_apoptotic_process
+MGI:95660,Gas6,growth arrest specific 6,8,NA,negative regulation of dendritic cell apoptotic process,NA,NA,ISO,Q14393,J:164563,dendritic_cell_apoptotic_process
+MGI:99928,Jak3,Janus kinase 3,8,NA,positive regulation of dendritic cell apoptotic process,NA,NA,IMP,NA,J:123902,dendritic_cell_apoptotic_process
+MGI:96892,Lyn,"LYN proto-oncogene, Src family tyrosine kinase",4,NA,positive regulation of dendritic cell apoptotic process,NA,NA,IBA,PTN008405048,J:265628,dendritic_cell_apoptotic_process
+MGI:96892,Lyn,"LYN proto-oncogene, Src family tyrosine kinase",4,NA,positive regulation of dendritic cell apoptotic process,NA,NA,IMP,NA,J:113243,dendritic_cell_apoptotic_process
+MGI:1352457,Nr4a3,"nuclear receptor subfamily 4, group A, member 3",4,NA,dendritic cell apoptotic process,happens in dendritic cell,NA,IMP,NA,J:147174,dendritic_cell_apoptotic_process
+MGI:1352457,Nr4a3,"nuclear receptor subfamily 4, group A, member 3",4,NA,positive regulation of dendritic cell apoptotic process,positively regulates dendritic cell apoptotic process,NA,IMP,NA,J:147174,dendritic_cell_apoptotic_process
+MGI:2659071,Rapgef2,Rap guanine nucleotide exchange factor (GEF) 2,3,NA,positive regulation of dendritic cell apoptotic process,NA,NA,IMP,NA,J:198912,dendritic_cell_apoptotic_process
+MGI:2659071,Rapgef2,Rap guanine nucleotide exchange factor (GEF) 2,3,NA,positive regulation of dendritic cell apoptotic process,NA,NA,ISO,Q9Y4G8,J:164563,dendritic_cell_apoptotic_process
+MGI:96819,Anxa1,annexin A1,19,NA,positive regulation of neutrophil apoptotic process,NA,NA,IBA,PTN002574794,J:265628,inflammatory_cell_apoptotic_process
+MGI:96819,Anxa1,annexin A1,19,NA,positive regulation of neutrophil apoptotic process,happens in bone marrow macrophage,NA,IMP,NA,J:180001,inflammatory_cell_apoptotic_process
+MGI:98262,Ccl5,C-C motif chemokine ligand 5,11,NA,negative regulation of macrophage apoptotic process,NA,NA,IMP,NA,J:102878,inflammatory_cell_apoptotic_process
+MGI:107182,Ccr5,C-C motif chemokine receptor 5,9,NA,negative regulation of macrophage apoptotic process,NA,NA,IDA,NA,J:102878,inflammatory_cell_apoptotic_process
+MGI:88338,Cd44,CD44 antigen,2,NA,positive regulation of neutrophil apoptotic process,NA,NA,ISO,RGD:2307,J:155856,inflammatory_cell_apoptotic_process
+MGI:104738,Cdkn2a,cyclin dependent kinase inhibitor 2A,4,NA,positive regulation of macrophage apoptotic process,NA,NA,IGI,P08226,J:170042,inflammatory_cell_apoptotic_process
+MGI:105303,Cxcr2,C-X-C motif chemokine receptor 2,1,NA,negative regulation of neutrophil apoptotic process,NA,NA,ISO,RGD:2906,J:155856,inflammatory_cell_apoptotic_process
+MGI:95484,Fas,Fas cell surface death receptor,19,NA,inflammatory cell apoptotic process,NA,NA,IDA,NA,J:87420,inflammatory_cell_apoptotic_process
+MGI:95484,Fas,Fas cell surface death receptor,19,NA,inflammatory cell apoptotic process,NA,NA,IMP,NA,J:87420,inflammatory_cell_apoptotic_process
+MGI:99255,Fasl,Fas ligand,1,NA,inflammatory cell apoptotic process,NA,NA,ISO,RGD:3880,J:155856,inflammatory_cell_apoptotic_process
+MGI:95499,Fcgr2b,"Fc receptor, IgG, low affinity IIb",1,NA,negative regulation of neutrophil apoptotic process,NA,NA,ISO,RGD:631331,J:155856,inflammatory_cell_apoptotic_process
+MGI:2441906,Ghsr,growth hormone secretagogue receptor,3,NA,negative regulation of macrophage apoptotic process,NA,NA,ISO,RGD:621397,J:155856,inflammatory_cell_apoptotic_process
+MGI:3651589,Gm14461,predicted gene 14461,2,NA,macrophage apoptotic process,happens in blood vessel wall,NA,IMP,NA,J:299833,inflammatory_cell_apoptotic_process
+MGI:96160,Hmga1,high mobility group AT-hook 1,17,NA,inflammatory cell apoptotic process,NA,NA,IDA,NA,J:305396,inflammatory_cell_apoptotic_process
+MGI:107656,Ifng,interferon gamma,10,NA,inflammatory cell apoptotic process,NA,NA,IMP,NA,J:87535,inflammatory_cell_apoptotic_process
+MGI:107656,Ifng,interferon gamma,10,NA,neutrophil apoptotic process,NA,NA,IMP,MGI:1857184,J:85159,inflammatory_cell_apoptotic_process
+MGI:96559,Il6,interleukin 6,5,NA,neutrophil apoptotic process,NA,NA,IDA,NA,J:85159,inflammatory_cell_apoptotic_process
+MGI:96559,Il6,interleukin 6,5,NA,neutrophil apoptotic process,NA,NA,IMP,MGI:1857197,J:85159,inflammatory_cell_apoptotic_process
+MGI:96559,Il6,interleukin 6,5,NA,neutrophil apoptotic process,NA,NA,ISO,P05231,J:164563,inflammatory_cell_apoptotic_process
+MGI:107936,Il18,interleukin 18,9,NA,negative regulation of neutrophil apoptotic process,NA,NA,ISO,RGD:2889,J:155856,inflammatory_cell_apoptotic_process
+MGI:96607,Itgam,integrin alpha M,7,NA,neutrophil apoptotic process,NA,NA,IMP,NA,J:38052,inflammatory_cell_apoptotic_process
+MGI:109235,Itpkb,"inositol 1,4,5-trisphosphate 3-kinase B",1,NA,negative regulation of neutrophil apoptotic process,NA,NA,IMP,MGI:2680720,J:133360,inflammatory_cell_apoptotic_process
+MGI:99458,Mef2c,myocyte enhancer factor 2C,13,NA,positive regulation of macrophage apoptotic process,NA,NA,IMP,NA,J:175177,inflammatory_cell_apoptotic_process
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,NA,negative regulation of macrophage apoptotic process,NA,NA,IDA,NA,J:170396,inflammatory_cell_apoptotic_process
+MGI:1922019,Pik3cb,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",9,NA,positive regulation of neutrophil apoptotic process,NA,NA,ISO,P42338,J:164563,inflammatory_cell_apoptotic_process
+MGI:1098211,Pik3cd,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",4,NA,positive regulation of neutrophil apoptotic process,NA,NA,ISO,O00329,J:164563,inflammatory_cell_apoptotic_process
+MGI:2143132,Plekho2,"pleckstrin homology domain containing, family O member 2",9,NA,macrophage apoptotic process,NA,NA,IBA,PTN002697582,J:265628,inflammatory_cell_apoptotic_process
+MGI:2143132,Plekho2,"pleckstrin homology domain containing, family O member 2",9,NA,macrophage apoptotic process,"happens in spleen,happens in peritoneal cavity,happens in blood",NA,IMP,MGI:6363012,J:270531,inflammatory_cell_apoptotic_process
+MGI:109583,Pten,phosphatase and tensin homolog,19,NA,regulation of macrophage apoptotic process,regulates macrophage apoptotic process,NA,IMP,MGI:1857466,J:53065,inflammatory_cell_apoptotic_process
+MGI:95994,Selenos,selenoprotein S,7,NA,negative regulation of macrophage apoptotic process,NA,NA,ISO,Q9BQE4,J:164563,inflammatory_cell_apoptotic_process
+MGI:2135607,Sirt1,sirtuin 1,10,NA,positive regulation of macrophage apoptotic process,NA,NA,IMP,NA,J:180558,inflammatory_cell_apoptotic_process
+MGI:1347355,Slc7a11,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 11",3,NA,regulation of neutrophil apoptotic process,NA,NA,IMP,MGI:3608695,J:121453,inflammatory_cell_apoptotic_process
+MGI:108470,St6gal1,"beta galactoside alpha 2,6 sialyltransferase 1",16,NA,negative regulation of macrophage apoptotic process,NA,NA,ISO,RGD:3676,J:155856,inflammatory_cell_apoptotic_process
+MGI:1890508,Zmpste24,"zinc metallopeptidase, STE24",4,NA,inflammatory cell apoptotic process,NA,NA,IMP,MGI:2180033,J:76209,inflammatory_cell_apoptotic_process
+MGI:98262,Ccl5,C-C motif chemokine ligand 5,11,NA,negative regulation of macrophage apoptotic process,NA,NA,IMP,NA,J:102878,macrophage_apoptotic_process
+MGI:107182,Ccr5,C-C motif chemokine receptor 5,9,NA,negative regulation of macrophage apoptotic process,NA,NA,IDA,NA,J:102878,macrophage_apoptotic_process
+MGI:104738,Cdkn2a,cyclin dependent kinase inhibitor 2A,4,NA,positive regulation of macrophage apoptotic process,NA,NA,IGI,P08226,J:170042,macrophage_apoptotic_process
+MGI:2441906,Ghsr,growth hormone secretagogue receptor,3,NA,negative regulation of macrophage apoptotic process,NA,NA,ISO,RGD:621397,J:155856,macrophage_apoptotic_process
+MGI:3651589,Gm14461,predicted gene 14461,2,NA,macrophage apoptotic process,happens in blood vessel wall,NA,IMP,NA,J:299833,macrophage_apoptotic_process
+MGI:99458,Mef2c,myocyte enhancer factor 2C,13,NA,positive regulation of macrophage apoptotic process,NA,NA,IMP,NA,J:175177,macrophage_apoptotic_process
+MGI:2429397,Nod2,nucleotide-binding oligomerization domain containing 2,8,NA,negative regulation of macrophage apoptotic process,NA,NA,IDA,NA,J:170396,macrophage_apoptotic_process
+MGI:2143132,Plekho2,"pleckstrin homology domain containing, family O member 2",9,NA,macrophage apoptotic process,NA,NA,IBA,PTN002697582,J:265628,macrophage_apoptotic_process
+MGI:2143132,Plekho2,"pleckstrin homology domain containing, family O member 2",9,NA,macrophage apoptotic process,"happens in spleen,happens in peritoneal cavity,happens in blood",NA,IMP,MGI:6363012,J:270531,macrophage_apoptotic_process
+MGI:109583,Pten,phosphatase and tensin homolog,19,NA,regulation of macrophage apoptotic process,regulates macrophage apoptotic process,NA,IMP,MGI:1857466,J:53065,macrophage_apoptotic_process
+MGI:95994,Selenos,selenoprotein S,7,NA,negative regulation of macrophage apoptotic process,NA,NA,ISO,Q9BQE4,J:164563,macrophage_apoptotic_process
+MGI:2135607,Sirt1,sirtuin 1,10,NA,positive regulation of macrophage apoptotic process,NA,NA,IMP,NA,J:180558,macrophage_apoptotic_process
+MGI:108470,St6gal1,"beta galactoside alpha 2,6 sialyltransferase 1",16,NA,negative regulation of macrophage apoptotic process,NA,NA,ISO,RGD:3676,J:155856,macrophage_apoptotic_process
+MGI:2676458,Birc7,baculoviral IAP repeat-containing 7,2,NA,regulation of natural killer cell apoptotic process,NA,NA,ISO,Q96CA5,J:164563,natural_killer_cell_apoptotic_process
+MGI:96819,Anxa1,annexin A1,19,NA,positive regulation of neutrophil apoptotic process,NA,NA,IBA,PTN002574794,J:265628,neutrophil_apoptotic_process
+MGI:96819,Anxa1,annexin A1,19,NA,positive regulation of neutrophil apoptotic process,happens in bone marrow macrophage,NA,IMP,NA,J:180001,neutrophil_apoptotic_process
+MGI:88338,Cd44,CD44 antigen,2,NA,positive regulation of neutrophil apoptotic process,NA,NA,ISO,RGD:2307,J:155856,neutrophil_apoptotic_process
+MGI:105303,Cxcr2,C-X-C motif chemokine receptor 2,1,NA,negative regulation of neutrophil apoptotic process,NA,NA,ISO,RGD:2906,J:155856,neutrophil_apoptotic_process
+MGI:95499,Fcgr2b,"Fc receptor, IgG, low affinity IIb",1,NA,negative regulation of neutrophil apoptotic process,NA,NA,ISO,RGD:631331,J:155856,neutrophil_apoptotic_process
+MGI:107656,Ifng,interferon gamma,10,NA,neutrophil apoptotic process,NA,NA,IMP,MGI:1857184,J:85159,neutrophil_apoptotic_process
+MGI:96559,Il6,interleukin 6,5,NA,neutrophil apoptotic process,NA,NA,IDA,NA,J:85159,neutrophil_apoptotic_process
+MGI:96559,Il6,interleukin 6,5,NA,neutrophil apoptotic process,NA,NA,IMP,MGI:1857197,J:85159,neutrophil_apoptotic_process
+MGI:96559,Il6,interleukin 6,5,NA,neutrophil apoptotic process,NA,NA,ISO,P05231,J:164563,neutrophil_apoptotic_process
+MGI:107936,Il18,interleukin 18,9,NA,negative regulation of neutrophil apoptotic process,NA,NA,ISO,RGD:2889,J:155856,neutrophil_apoptotic_process
+MGI:96607,Itgam,integrin alpha M,7,NA,neutrophil apoptotic process,NA,NA,IMP,NA,J:38052,neutrophil_apoptotic_process
+MGI:109235,Itpkb,"inositol 1,4,5-trisphosphate 3-kinase B",1,NA,negative regulation of neutrophil apoptotic process,NA,NA,IMP,MGI:2680720,J:133360,neutrophil_apoptotic_process
+MGI:1922019,Pik3cb,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",9,NA,positive regulation of neutrophil apoptotic process,NA,NA,ISO,P42338,J:164563,neutrophil_apoptotic_process
+MGI:1098211,Pik3cd,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta",4,NA,positive regulation of neutrophil apoptotic process,NA,NA,ISO,O00329,J:164563,neutrophil_apoptotic_process
+MGI:1347355,Slc7a11,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 11",3,NA,regulation of neutrophil apoptotic process,NA,NA,IMP,MGI:3608695,J:121453,neutrophil_apoptotic_process
+MGI:87916,Ada,adenosine deaminase,2,NA,negative regulation of thymocyte apoptotic process,negatively regulates thymocyte apoptotic process,NA,IMP,NA,J:115112,T_cell_apoptotic_process
+MGI:87916,Ada,adenosine deaminase,2,NA,negative regulation of thymocyte apoptotic process,negatively regulates thymocyte apoptotic process,NA,IMP,NA,J:131709,T_cell_apoptotic_process
+MGI:87916,Ada,adenosine deaminase,2,NA,thymocyte apoptotic process,happens in thymocyte,NA,IMP,NA,J:115112,T_cell_apoptotic_process
+MGI:87916,Ada,adenosine deaminase,2,NA,thymocyte apoptotic process,happens in thymocyte,NA,IMP,NA,J:131709,T_cell_apoptotic_process
+MGI:107825,Adam8,a disintegrin and metallopeptidase domain 8,7,NA,positive regulation of thymocyte apoptotic process,NA,NA,IMP,NA,J:165123,T_cell_apoptotic_process
+MGI:87986,Akt1,thymoma viral proto-oncogene 1,12,NA,activation-induced cell death of T cells,NA,NA,ISO,P31749,J:87682,T_cell_apoptotic_process
+MGI:1330806,Arg2,arginase type II,12,NA,"negative regulation of activated CD8-positive, alpha-beta T cell apoptotic process",NA,NA,IMP,NA,J:243512,T_cell_apoptotic_process
+MGI:1097161,Bak1,BCL2-antagonist/killer 1,17,NA,thymocyte apoptotic process,"happens in thymocyte,happens in thymus",NA,IGI,MGI:1197519,J:99285,T_cell_apoptotic_process
+MGI:99702,Bax,BCL2-associated X protein,7,NA,thymocyte apoptotic process,NA,NA,IGI,MGI:1197519,J:99285,T_cell_apoptotic_process
+MGI:2181667,Bbc3,BCL2 binding component 3,7,NA,positive regulation of T cell apoptotic process,positively regulates T cell apoptotic process,NA,IMP,MGI:2681654,J:111822,T_cell_apoptotic_process
+MGI:2181667,Bbc3,BCL2 binding component 3,7,NA,positive regulation of thymocyte apoptotic process,NA,NA,IGI,P02340,J:170216,T_cell_apoptotic_process
+MGI:2181667,Bbc3,BCL2 binding component 3,7,NA,T cell apoptotic process,happens in T cell,NA,IMP,MGI:2681654,J:111822,T_cell_apoptotic_process
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,NA,negative regulation of T cell apoptotic process,negatively regulates T cell apoptotic process,NA,IDA,NA,J:23608,T_cell_apoptotic_process
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,NA,T cell apoptotic process,happens in T cell,NA,IDA,NA,J:23608,T_cell_apoptotic_process
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,NA,T cell apoptotic process,"happens in T cell,happens in bone marrow,happens in T cell,happens in thymus",NA,IMP,MGI:2156165,J:14685,T_cell_apoptotic_process
+MGI:1197519,Bcl2l11,BCL2 like 11,2,NA,positive regulation of T cell apoptotic process,positively regulates T cell apoptotic process,NA,IGI,MGI:88140,J:111822,T_cell_apoptotic_process
+MGI:1197519,Bcl2l11,BCL2 like 11,2,NA,positive regulation of T cell apoptotic process,positively regulates T cell apoptotic process,NA,IMP,MGI:2156498,J:111822,T_cell_apoptotic_process
+MGI:1197519,Bcl2l11,BCL2 like 11,2,NA,T cell apoptotic process,happens in T cell,NA,IGI,MGI:88140,J:111822,T_cell_apoptotic_process
+MGI:1197519,Bcl2l11,BCL2 like 11,2,NA,T cell apoptotic process,happens in T cell,NA,IMP,MGI:2156498,J:111822,T_cell_apoptotic_process
+MGI:1197519,Bcl2l11,BCL2 like 11,2,NA,thymocyte apoptotic process,NA,NA,IGI,MGI:1097161,J:99285,T_cell_apoptotic_process
+MGI:1197519,Bcl2l11,BCL2 like 11,2,NA,thymocyte apoptotic process,NA,NA,IGI,MGI:99702,J:99285,T_cell_apoptotic_process
+MGI:88140,Bcl3,B cell leukemia/lymphoma 3,7,NA,negative regulation of T cell apoptotic process,negatively regulates T cell apoptotic process,NA,IGI,MGI:1197519,J:111822,T_cell_apoptotic_process
+MGI:88140,Bcl3,B cell leukemia/lymphoma 3,7,NA,negative regulation of T cell apoptotic process,negatively regulates T cell apoptotic process,NA,IMP,NA,J:111822,T_cell_apoptotic_process
+MGI:88140,Bcl3,B cell leukemia/lymphoma 3,7,NA,T cell apoptotic process,happens in T cell,NA,IGI,MGI:1197519,J:111822,T_cell_apoptotic_process
+MGI:88140,Bcl3,B cell leukemia/lymphoma 3,7,NA,T cell apoptotic process,happens in T cell,NA,IMP,NA,J:111822,T_cell_apoptotic_process
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,NA,T cell apoptotic process,NA,NA,IDA,NA,J:61738,T_cell_apoptotic_process
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,NOT,T cell apoptotic process,NA,NA,IMP,MGI:2158304,J:67297,T_cell_apoptotic_process
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,NOT,thymocyte apoptotic process,NA,NA,IMP,MGI:2158304,J:67297,T_cell_apoptotic_process
+MGI:1929913,Bcl11b,B cell leukemia/lymphoma 11B,12,NA,negative regulation of T cell apoptotic process,"negatively regulates apoptotic process,negatively regulates T cell apoptotic process",NA,IMP,MGI:2663971,J:83651,T_cell_apoptotic_process
+MGI:1929913,Bcl11b,B cell leukemia/lymphoma 11B,12,NA,negative regulation of thymocyte apoptotic process,negatively regulates thymocyte apoptotic process,NA,IMP,MGI:2663971,J:131680,T_cell_apoptotic_process
+MGI:1929913,Bcl11b,B cell leukemia/lymphoma 11B,12,NA,T cell apoptotic process,happens in T cell,NA,IMP,MGI:2663971,J:83651,T_cell_apoptotic_process
+MGI:1929913,Bcl11b,B cell leukemia/lymphoma 11B,12,NA,thymocyte apoptotic process,happens in DN4 thymocyte,NA,IMP,MGI:2663971,J:131680,T_cell_apoptotic_process
+MGI:1328362,Blm,"Bloom syndrome, RecQ like helicase",7,NA,negative regulation of thymocyte apoptotic process,NA,NA,IGI,MGI:98834,J:118922,T_cell_apoptotic_process
+MGI:1328362,Blm,"Bloom syndrome, RecQ like helicase",7,NA,negative regulation of thymocyte apoptotic process,NA,NA,IMP,MGI:2386448 MGI:3663359,J:118922,T_cell_apoptotic_process
+MGI:88180,Bmp4,bone morphogenetic protein 4,14,NA,negative regulation of thymocyte apoptotic process,NA,NA,ISO,P12644,J:164563,T_cell_apoptotic_process
+MGI:1261423,Casp8,caspase 8,1,NA,regulation of thymocyte apoptotic process,NA,NA,IGI,MGI:103223,J:93322,T_cell_apoptotic_process
+MGI:98262,Ccl5,C-C motif chemokine ligand 5,11,NA,negative regulation of T cell apoptotic process,NA,NA,ISO,P13501,J:164563,T_cell_apoptotic_process
+MGI:98262,Ccl5,C-C motif chemokine ligand 5,11,NA,positive regulation of T cell apoptotic process,NA,NA,ISO,P13501,J:164563,T_cell_apoptotic_process
+MGI:88326,Cd27,CD27 antigen,6,NA,negative regulation of T cell apoptotic process,NA,NA,IPI,P39429,J:113841,T_cell_apoptotic_process
+MGI:1926446,Cd274,CD274 antigen,19,NA,"positive regulation of activated CD8-positive, alpha-beta T cell apoptotic process",NA,NA,ISO,Q9NZQ7,J:164563,T_cell_apoptotic_process
+MGI:1347245,Ceacam1,CEA cell adhesion molecule 1,7,NA,positive regulation of activation-induced cell death of T cells,"happens in T cell,happens in spleen",PR:000044465,IMP,MGI:5609428,J:190980,T_cell_apoptotic_process
+MGI:1355321,Chek2,checkpoint kinase 2,5,NA,thymocyte apoptotic process,happens in thymocyte,NA,IMP,MGI:2386905,J:138550,T_cell_apoptotic_process
+MGI:1196227,Dffa,"DNA fragmentation factor, alpha subunit",4,NA,thymocyte apoptotic process,NA,NA,IMP,MGI:2179456,J:77791,T_cell_apoptotic_process
+MGI:1933786,Dnaja3,DnaJ heat shock protein family (Hsp40) member A3,16,NA,activation-induced cell death of T cells,NA,NA,IMP,MGI:2448686 MGI:3040717,J:98985,T_cell_apoptotic_process
+MGI:1921396,Dock8,dedicator of cytokinesis 8,19,NA,negative regulation of T cell apoptotic process,NA,NA,IMP,MGI:3835422,J:179651,T_cell_apoptotic_process
+MGI:2385972,Ebf4,early B cell factor 4,2,NA,T cell apoptotic process,NA,NA,ISO,Q9BQW3,J:164563,T_cell_apoptotic_process
+MGI:103236,Efna1,ephrin A1,3,NA,negative regulation of thymocyte apoptotic process,NA,NA,IDA,NA,J:129912,T_cell_apoptotic_process
+MGI:109324,Fadd,Fas associated via death domain,7,NA,negative regulation of activation-induced cell death of T cells,NA,NA,IMP,NA,J:176448,T_cell_apoptotic_process
+MGI:95484,Fas,Fas cell surface death receptor,19,NA,activation-induced cell death of T cells,NA,NA,IBA,PTN002930185,J:265628,T_cell_apoptotic_process
+MGI:95484,Fas,Fas cell surface death receptor,19,NA,activation-induced cell death of T cells,NA,NA,IDA,NA,J:84826,T_cell_apoptotic_process
+MGI:95484,Fas,Fas cell surface death receptor,19,NA,activation-induced cell death of T cells,happens in T cell,NA,IMP,MGI:1856334,J:26199,T_cell_apoptotic_process
+MGI:95484,Fas,Fas cell surface death receptor,19,NA,activation-induced cell death of T cells,happens in T cell,NA,IMP,MGI:1856334,J:31852,T_cell_apoptotic_process
+MGI:95484,Fas,Fas cell surface death receptor,19,NA,activation-induced cell death of T cells,happens in T cell,NA,IMP,MGI:1856384,J:26199,T_cell_apoptotic_process
+MGI:99255,Fasl,Fas ligand,1,NA,T cell apoptotic process,NA,NA,ISO,P48023,J:164563,T_cell_apoptotic_process
+MGI:2685303,Gimap8,"GTPase, IMAP family member 8",6,NA,regulation of T cell apoptotic process,NA,NA,IMP,MGI:5607134,J:215741,T_cell_apoptotic_process
+MGI:95729,Gli3,GLI-Kruppel family member GLI3,13,NA,thymocyte apoptotic process,NA,NA,IMP,NA,J:151855,T_cell_apoptotic_process
+MGI:109162,Gpam,"glycerol-3-phosphate acyltransferase, mitochondrial",19,NA,activation-induced cell death of T cells,"happens in T cell,happens in spleen",NA,IMP,MGI:2669956,J:143259,T_cell_apoptotic_process
+MGI:109162,Gpam,"glycerol-3-phosphate acyltransferase, mitochondrial",19,NA,negative regulation of activation-induced cell death of T cells,negatively regulates activation-induced cell death of T cells,NA,IMP,MGI:2669956,J:143259,T_cell_apoptotic_process
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,NA,negative regulation of thymocyte apoptotic process,NA,NA,IMP,MGI:2386679 MGI:2448686,J:93322,T_cell_apoptotic_process
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,NA,regulation of thymocyte apoptotic process,NA,NA,IGI,MGI:103223,J:93322,T_cell_apoptotic_process
+MGI:96416,Ido1,"indoleamine 2,3-dioxygenase 1",8,NA,negative regulation of T cell apoptotic process,NA,NA,IMP,MGI:3505776,J:132719,T_cell_apoptotic_process
+MGI:96416,Ido1,"indoleamine 2,3-dioxygenase 1",8,NA,positive regulation of T cell apoptotic process,NA,NA,ISO,P14902,J:164563,T_cell_apoptotic_process
+MGI:96549,Il2ra,"interleukin 2 receptor, alpha chain",2,NA,activation-induced cell death of T cells,happens in T cell,NA,IMP,MGI:1857192,J:64279,T_cell_apoptotic_process
+MGI:96562,Il7r,interleukin 7 receptor,15,NA,negative regulation of T cell apoptotic process,NA,NA,IMP,MGI:1857198,J:41239,T_cell_apoptotic_process
+MGI:99928,Jak3,Janus kinase 3,8,NA,negative regulation of thymocyte apoptotic process,NA,NA,IMP,NA,J:106675,T_cell_apoptotic_process
+MGI:99928,Jak3,Janus kinase 3,8,NA,regulation of T cell apoptotic process,NA,NA,IMP,NA,J:112031,T_cell_apoptotic_process
+MGI:1915387,Kdelr1,KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 1,7,NA,T cell apoptotic process,NA,NA,IMP,MGI:5689886,J:224970,T_cell_apoptotic_process
+MGI:107566,Kifap3,kinesin-associated protein 3,1,NA,negative regulation of thymocyte apoptotic process,"negatively regulates apoptotic process,negatively regulates thymocyte apoptotic process",NA,IMP,MGI:3613572,J:62244,T_cell_apoptotic_process
+MGI:107566,Kifap3,kinesin-associated protein 3,1,NA,thymocyte apoptotic process,happens in thymocyte,NA,IMP,MGI:3613572,J:62244,T_cell_apoptotic_process
+MGI:96778,Lgals3,"lectin, galactose binding, soluble 3",14,NA,regulation of T cell apoptotic process,NA,NA,ISO,P17931,J:164563,T_cell_apoptotic_process
+MGI:96789,Lipa,lysosomal acid lipase A,19,NA,T cell apoptotic process,NA,NA,IMP,MGI:2451080,J:146658,T_cell_apoptotic_process
+MGI:1289247,Lmbr1l,limb region 1 like,15,NA,T cell apoptotic process,NA,NA,IMP,NA,J:274568,T_cell_apoptotic_process
+MGI:3041243,Nfkbid,"nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, delta",7,NA,positive regulation of thymocyte apoptotic process,positively regulates thymocyte apoptotic process,NA,IDA,NA,J:75807,T_cell_apoptotic_process
+MGI:3041243,Nfkbid,"nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, delta",7,NA,thymocyte apoptotic process,happens in thymocyte,NA,IDA,NA,J:75807,T_cell_apoptotic_process
+MGI:1339957,P2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",5,NA,positive regulation of T cell apoptotic process,positively regulates T cell apoptotic process,NA,IMP,NA,J:110330,T_cell_apoptotic_process
+MGI:1339957,P2rx7,"purinergic receptor P2X, ligand-gated ion channel, 7",5,NA,T cell apoptotic process,happens in immature alpha-beta T cell,NA,IMP,NA,J:110330,T_cell_apoptotic_process
+MGI:104879,Pdcd1,programmed cell death 1,1,NA,positive regulation of T cell apoptotic process,NA,NA,IBA,PTN001033538,J:265628,T_cell_apoptotic_process
+MGI:104879,Pdcd1,programmed cell death 1,1,NA,positive regulation of T cell apoptotic process,"happens in regulatory T cell,positively regulates regulatory T cell apoptotic process",NA,IMP,NA,J:204764,T_cell_apoptotic_process
+MGI:104879,Pdcd1,programmed cell death 1,1,NA,positive regulation of T cell apoptotic process,NA,NA,ISO,Q15116,J:164563,T_cell_apoptotic_process
+MGI:104879,Pdcd1,programmed cell death 1,1,NA,regulatory T cell apoptotic process,happens in regulatory T cell,NA,IMP,NA,J:204764,T_cell_apoptotic_process
+MGI:1859170,Pdcd7,programmed cell death 7,9,NA,positive regulation of T cell apoptotic process,NA,NA,IDA,NA,J:53879,T_cell_apoptotic_process
+MGI:102696,Pip,prolactin induced protein,6,NA,negative regulation of T cell apoptotic process,NA,NA,ISO,P12273,J:164563,T_cell_apoptotic_process
+MGI:97365,Pnp,purine-nucleoside phosphorylase,14,NA,negative regulation of T cell apoptotic process,negatively regulates T cell apoptotic process,NA,IMP,MGI:2386195,J:62870,T_cell_apoptotic_process
+MGI:97365,Pnp,purine-nucleoside phosphorylase,14,NA,T cell apoptotic process,happens in immature alpha-beta T cell,NA,IMP,MGI:2386195,J:62870,T_cell_apoptotic_process
+MGI:1913744,Prelid1,PRELI domain containing 1,13,NA,positive regulation of T cell apoptotic process,NA,NA,ISO,Q9Y255,J:164563,T_cell_apoptotic_process
+MGI:97601,Prkcq,"protein kinase C, theta",2,NA,negative regulation of T cell apoptotic process,NA,NA,ISO,Q04759,J:164563,T_cell_apoptotic_process
+MGI:2141917,Prkd2,protein kinase D2,7,NA,regulation of T cell apoptotic process,NA,NA,ISO,Q9BZL6,J:164563,T_cell_apoptotic_process
+MGI:104857,Ptcra,pre T cell antigen receptor alpha,17,NA,negative regulation of thymocyte apoptotic process,NA,NA,IBA,PTN002209276,J:265628,T_cell_apoptotic_process
+MGI:104857,Ptcra,pre T cell antigen receptor alpha,17,NA,negative regulation of thymocyte apoptotic process,negatively regulates thymocyte apoptotic process,NA,IMP,NA,J:96628,T_cell_apoptotic_process
+MGI:104857,Ptcra,pre T cell antigen receptor alpha,17,NA,thymocyte apoptotic process,happens in thymocyte,NA,IMP,NA,J:96628,T_cell_apoptotic_process
+MGI:97848,Rag1,recombination activating 1,2,NA,negative regulation of T cell apoptotic process,NA,NA,IGI,MGI:1353616,J:140121,T_cell_apoptotic_process
+MGI:97848,Rag1,recombination activating 1,2,NA,negative regulation of thymocyte apoptotic process,NA,NA,IMP,NA,J:96628,T_cell_apoptotic_process
+MGI:108212,Ripk1,receptor (TNFRSF)-interacting serine-threonine kinase 1,13,NA,T cell apoptotic process,NA,NA,IMP,NA,J:176448,T_cell_apoptotic_process
+MGI:2154952,Ripk3,receptor-interacting serine-threonine kinase 3,14,NA,regulation of activation-induced cell death of T cells,NA,NA,IGI,Q61160,J:176448,T_cell_apoptotic_process
+MGI:104856,Rorc,RAR-related orphan receptor gamma,3,NA,negative regulation of thymocyte apoptotic process,NA,NA,IMP,NA,J:116733,T_cell_apoptotic_process
+MGI:98159,Rps6,ribosomal protein S6,4,NA,activation-induced cell death of T cells,NA,NA,IMP,MGI:2387471,J:103921,T_cell_apoptotic_process
+MGI:106603,Serpinb9,"serine (or cysteine) peptidase inhibitor, clade B, member 9",13,NA,negative regulation of T cell apoptotic process,NA,NA,IMP,MGI:3687210,J:113349,T_cell_apoptotic_process
+MGI:99668,Siglec1,"sialic acid binding Ig-like lectin 1, sialoadhesin",2,NA,positive regulation of T cell apoptotic process,NA,NA,IMP,MGI:3617694,J:193817,T_cell_apoptotic_process
+MGI:1353606,Siva1,"SIVA1, apoptosis-inducing factor",12,NA,activation-induced cell death of T cells,NA,NA,ISO,O15304,J:164563,T_cell_apoptotic_process
+MGI:1353616,Slc46a2,"solute carrier family 46, member 2",4,NA,negative regulation of T cell apoptotic process,NA,NA,IGI,MGI:97848,J:140121,T_cell_apoptotic_process
+MGI:98304,St3gal1,"ST3 beta-galactoside alpha-2,3-sialyltransferase 1",15,NA,"negative regulation of activated CD8-positive, alpha-beta T cell apoptotic process",NA,NA,IMP,NA,J:79167,T_cell_apoptotic_process
+MGI:98726,Tgfb2,"transforming growth factor, beta 2",1,NA,activation-induced cell death of T cells,happens in T cell,NA,IDA,NA,J:18904,T_cell_apoptotic_process
+MGI:98726,Tgfb2,"transforming growth factor, beta 2",1,NA,positive regulation of activation-induced cell death of T cells,positively regulates activation-induced cell death of T cells,NA,IDA,NA,J:18904,T_cell_apoptotic_process
+MGI:104512,Tnfrsf4,"tumor necrosis factor receptor superfamily, member 4",4,NA,negative regulation of activation-induced cell death of T cells,NA,NA,IMP,NA,J:71803,T_cell_apoptotic_process
+MGI:1930269,Tnfrsf23,"tumor necrosis factor receptor superfamily, member 23",7,NA,activation-induced cell death of T cells,NA,NA,IBA,PTN002930185,J:265628,T_cell_apoptotic_process
+MGI:104511,Tnfsf4,"tumor necrosis factor (ligand) superfamily, member 4",1,NA,negative regulation of activation-induced cell death of T cells,NA,NA,IC,GO:0032813,J:71803,T_cell_apoptotic_process
+MGI:104511,Tnfsf4,"tumor necrosis factor (ligand) superfamily, member 4",1,NA,negative regulation of T cell apoptotic process,happens in memory T cell,NA,IC,GO:0032813,J:71803,T_cell_apoptotic_process
+MGI:98834,Trp53,transformation related protein 53,11,NA,positive regulation of thymocyte apoptotic process,positively regulates thymocyte apoptotic process,NA,IMP,MGI:1857590,J:118992,T_cell_apoptotic_process
+MGI:98834,Trp53,transformation related protein 53,11,NA,positive regulation of thymocyte apoptotic process,NA,NA,IMP,NA,J:170216,T_cell_apoptotic_process
+MGI:98834,Trp53,transformation related protein 53,11,NA,regulation of thymocyte apoptotic process,NA,NA,IGI,MGI:1328362,J:118992,T_cell_apoptotic_process
+MGI:98834,Trp53,transformation related protein 53,11,NA,thymocyte apoptotic process,"happens in CD4-positive, alpha-beta thymocyte,happens in thymus,happens in DN4 thymocyte,happens in double-positive, alpha-beta thymocyte,happens in DN3 thymocyte",NA,IMP,MGI:1857590,J:118992,T_cell_apoptotic_process
+MGI:1196284,Tsc22d3,"TSC22 domain family, member 3",X,NA,negative regulation of activation-induced cell death of T cells,NA,NA,IBA,PTN008536663,J:265628,T_cell_apoptotic_process
+MGI:1196284,Tsc22d3,"TSC22 domain family, member 3",X,NA,negative regulation of activation-induced cell death of T cells,NA,NA,IDA,NA,J:45108,T_cell_apoptotic_process
+MGI:103223,Vhl,von Hippel-Lindau tumor suppressor,6,NA,negative regulation of thymocyte apoptotic process,NA,NA,IMP,MGI:2136645 MGI:2448686,J:93322,T_cell_apoptotic_process
+MGI:103223,Vhl,von Hippel-Lindau tumor suppressor,6,NA,regulation of thymocyte apoptotic process,NA,NA,IGI,MGI:106918,J:93322,T_cell_apoptotic_process
+MGI:103223,Vhl,von Hippel-Lindau tumor suppressor,6,NA,regulation of thymocyte apoptotic process,NA,NA,IGI,MGI:1261423,J:93322,T_cell_apoptotic_process
+MGI:98958,Wnt5a,"wingless-type MMTV integration site family, member 5A",14,NA,positive regulation of thymocyte apoptotic process,positively regulates thymocyte apoptotic process,NA,IMP,NA,J:130359,T_cell_apoptotic_process
+MGI:98958,Wnt5a,"wingless-type MMTV integration site family, member 5A",14,NA,thymocyte apoptotic process,"happens in thymocyte,happens in thymus",NA,IMP,NA,J:130359,T_cell_apoptotic_process
+MGI:1930128,Zc3h8,zinc finger CCCH type containing 8,2,NA,positive regulation of thymocyte apoptotic process,NA,NA,ISO,Q8N5P1,J:164563,T_cell_apoptotic_process
