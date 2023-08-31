@@ -1,0 +1,244 @@
+g_hash,initial_alias,initial_ensg,o_hash,ortholog_name,ortholog_ensg,description,component
+1,ABL1,ENSMUSG00000026842,1.1.1,ABL1,ENSG00000097007,"ABL proto-oncogene 1, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:76]",epithelial_cell_apoptotic_process
+2,ABL1,ENSMUSG00000026842,2.1.1,ABL1,ENSG00000097007,"ABL proto-oncogene 1, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:76]",epithelial_cell_apoptotic_process
+3,ABL2,ENSMUSG00000026596,3.1.1,ABL2,ENSG00000143322,"ABL proto-oncogene 2, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:77]",epithelial_cell_apoptotic_process
+4,ADAR,ENSMUSG00000027951,4.1.1,ADAR,ENSG00000160710,adenosine deaminase RNA specific [Source:HGNC Symbol;Acc:HGNC:225],epithelial_cell_apoptotic_process
+5,ADAR,ENSMUSG00000027951,5.1.1,ADAR,ENSG00000160710,adenosine deaminase RNA specific [Source:HGNC Symbol;Acc:HGNC:225],epithelial_cell_apoptotic_process
+6,AGAP2,ENSMUSG00000025422,6.1.1,AGAP2,ENSG00000135439,"ArfGAP with GTPase domain, ankyrin repeat and PH domain 2 [Source:HGNC Symbol;Acc:HGNC:16921]",epithelial_cell_apoptotic_process
+7,AGAP2,ENSMUSG00000025422,7.1.1,AGAP2,ENSG00000135439,"ArfGAP with GTPase domain, ankyrin repeat and PH domain 2 [Source:HGNC Symbol;Acc:HGNC:16921]",epithelial_cell_apoptotic_process
+8,AGER,ENSMUSG00000015452,8.1.1,AGER,ENSG00000204305,advanced glycosylation end-product specific receptor [Source:HGNC Symbol;Acc:HGNC:320],epithelial_cell_apoptotic_process
+9,AGER,ENSMUSG00000015452,9.1.1,AGER,ENSG00000204305,advanced glycosylation end-product specific receptor [Source:HGNC Symbol;Acc:HGNC:320],epithelial_cell_apoptotic_process
+10,AKR1C6,ENSMUSG00000021210,10.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+11,AKR1C14,ENSMUSG00000033715,11.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+12,AKR1C18,ENSMUSG00000021214,12.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+13,AKR1C20,ENSMUSG00000054757,13.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+14,AKR1CL,ENSMUSG00000025955,14.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+15,ALMS1,ENSMUSG00000063810,15.1.1,ALMS1,ENSG00000116127,ALMS1 centrosome and basal body associated protein [Source:HGNC Symbol;Acc:HGNC:428],epithelial_cell_apoptotic_process
+16,ALMS1,ENSMUSG00000063810,16.1.1,ALMS1,ENSG00000116127,ALMS1 centrosome and basal body associated protein [Source:HGNC Symbol;Acc:HGNC:428],epithelial_cell_apoptotic_process
+17,ANGPT1,ENSMUSG00000022309,17.1.1,ANGPT1,ENSG00000154188,angiopoietin 1 [Source:HGNC Symbol;Acc:HGNC:484],epithelial_cell_apoptotic_process
+18,ANGPTL4,ENSMUSG00000002289,18.1.1,ANGPTL4,ENSG00000167772,angiopoietin like 4 [Source:HGNC Symbol;Acc:HGNC:16039],epithelial_cell_apoptotic_process
+19,ANGPTL4,ENSMUSG00000002289,19.1.1,ANGPTL4,ENSG00000167772,angiopoietin like 4 [Source:HGNC Symbol;Acc:HGNC:16039],epithelial_cell_apoptotic_process
+20,ANO6,ENSMUSG00000064210,20.1.1,ANO6,ENSG00000177119,anoctamin 6 [Source:HGNC Symbol;Acc:HGNC:25240],epithelial_cell_apoptotic_process
+21,APC,ENSMUSG00000005871,21.1.1,APC,ENSG00000134982,APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583],epithelial_cell_apoptotic_process
+22,APC,ENSMUSG00000005871,22.1.1,APC,ENSG00000134982,APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583],epithelial_cell_apoptotic_process
+23,ARF6,ENSMUSG00000044147,23.1.1,ARF6,ENSG00000165527,ADP ribosylation factor 6 [Source:HGNC Symbol;Acc:HGNC:659],epithelial_cell_apoptotic_process
+24,ARRB2,ENSMUSG00000060216,24.1.1,ARRB2,ENSG00000141480,arrestin beta 2 [Source:HGNC Symbol;Acc:HGNC:712],epithelial_cell_apoptotic_process
+25,ATF2,ENSMUSG00000027104,25.1.1,ATF2,ENSG00000115966,activating transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:784],epithelial_cell_apoptotic_process
+26,ATF7,ENSMUSG00000099083,26.1.1,ATF7,ENSG00000170653,activating transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:792],epithelial_cell_apoptotic_process
+27,ATG7,ENSMUSG00000030314,27.1.1,ATG7,ENSG00000197548,autophagy related 7 [Source:HGNC Symbol;Acc:HGNC:16935],epithelial_cell_apoptotic_process
+28,ATG7,ENSMUSG00000030314,28.1.1,ATG7,ENSG00000197548,autophagy related 7 [Source:HGNC Symbol;Acc:HGNC:16935],epithelial_cell_apoptotic_process
+29,ATOH1,ENSMUSG00000073043,29.1.1,ATOH1,ENSG00000172238,atonal bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:797],epithelial_cell_apoptotic_process
+30,ATOH1,ENSMUSG00000073043,30.1.1,ATOH1,ENSG00000172238,atonal bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:797],epithelial_cell_apoptotic_process
+31,BAD,ENSMUSG00000024959,31.1.1,BAD,ENSG00000002330,BCL2 associated agonist of cell death [Source:HGNC Symbol;Acc:HGNC:936],epithelial_cell_apoptotic_process
+32,BAX,ENSMUSG00000003873,32.1.1,BAX,ENSG00000087088,"BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]",epithelial_cell_apoptotic_process
+33,BAX,ENSMUSG00000003873,33.1.1,BAX,ENSG00000087088,"BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]",epithelial_cell_apoptotic_process
+34,BAX,ENSMUSG00000003873,34.1.1,BAX,ENSG00000087088,"BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]",epithelial_cell_apoptotic_process
+35,BAX,ENSMUSG00000003873,35.1.1,BAX,ENSG00000087088,"BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]",epithelial_cell_apoptotic_process
+36,BCL2,ENSMUSG00000057329,36.1.1,BCL2,ENSG00000171791,BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990],epithelial_cell_apoptotic_process
+37,BCL2,ENSMUSG00000057329,37.1.1,BCL2,ENSG00000171791,BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990],epithelial_cell_apoptotic_process
+38,BCL2,ENSMUSG00000057329,38.1.1,BCL2,ENSG00000171791,BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990],epithelial_cell_apoptotic_process
+39,BCL2,ENSMUSG00000057329,39.1.1,BCL2,ENSG00000171791,BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990],epithelial_cell_apoptotic_process
+40,BCL2L1,ENSMUSG00000007659,40.1.1,BCL2L1,ENSG00000171552,BCL2 like 1 [Source:HGNC Symbol;Acc:HGNC:992],epithelial_cell_apoptotic_process
+41,BID,ENSMUSG00000004446,41.1.1,BID,ENSG00000015475,BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050],epithelial_cell_apoptotic_process
+42,BID,ENSMUSG00000004446,42.1.1,BID,ENSG00000015475,BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050],epithelial_cell_apoptotic_process
+43,BID,ENSMUSG00000004446,43.1.1,BID,ENSG00000015475,BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050],epithelial_cell_apoptotic_process
+44,BMP4,ENSMUSG00000021835,44.1.1,BMP4,ENSG00000125378,bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071],epithelial_cell_apoptotic_process
+45,BMPR2,ENSMUSG00000067336,45.1.1,BMPR2,ENSG00000204217,bone morphogenetic protein receptor type 2 [Source:HGNC Symbol;Acc:HGNC:1078],epithelial_cell_apoptotic_process
+46,BOK,ENSMUSG00000026278,46.1.1,BOK,ENSG00000176720,BCL2 family apoptosis regulator BOK [Source:HGNC Symbol;Acc:HGNC:1087],epithelial_cell_apoptotic_process
+47,BRAF,ENSMUSG00000002413,47.1.1,BRAF,ENSG00000157764,"B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]",epithelial_cell_apoptotic_process
+48,BRAF,ENSMUSG00000002413,48.1.1,BRAF,ENSG00000157764,"B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]",epithelial_cell_apoptotic_process
+49,BTC,ENSMUSG00000082361,49.1.1,BTC,ENSG00000174808,betacellulin [Source:HGNC Symbol;Acc:HGNC:1121],epithelial_cell_apoptotic_process
+50,BTC,ENSMUSG00000082361,50.1.1,BTC,ENSG00000174808,betacellulin [Source:HGNC Symbol;Acc:HGNC:1121],epithelial_cell_apoptotic_process
+51,CAPN10,ENSMUSG00000026270,51.1.1,CAPN10,ENSG00000142330,calpain 10 [Source:HGNC Symbol;Acc:HGNC:1477],epithelial_cell_apoptotic_process
+52,CAPN10,ENSMUSG00000026270,52.1.1,CAPN10,ENSG00000142330,calpain 10 [Source:HGNC Symbol;Acc:HGNC:1477],epithelial_cell_apoptotic_process
+53,CAPN10,ENSMUSG00000026270,53.1.1,CAPN10,ENSG00000142330,calpain 10 [Source:HGNC Symbol;Acc:HGNC:1477],epithelial_cell_apoptotic_process
+54,CARM1,ENSMUSG00000032185,54.1.1,CARM1,ENSG00000142453,coactivator associated arginine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23393],epithelial_cell_apoptotic_process
+55,CASP3,ENSMUSG00000031628,55.1.1,CASP3,ENSG00000164305,caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504],epithelial_cell_apoptotic_process
+56,CASP6,ENSMUSG00000027997,56.1.1,CASP6,ENSG00000138794,caspase 6 [Source:HGNC Symbol;Acc:HGNC:1507],epithelial_cell_apoptotic_process
+57,CASP8,ENSMUSG00000026029,57.1.1,CASP8,ENSG00000064012,caspase 8 [Source:HGNC Symbol;Acc:HGNC:1509],epithelial_cell_apoptotic_process
+58,CASP9,ENSMUSG00000028914,58.1.1,CASP9,ENSG00000132906,caspase 9 [Source:HGNC Symbol;Acc:HGNC:1511],epithelial_cell_apoptotic_process
+59,CAST,ENSMUSG00000021585,59.1.1,CAST,ENSG00000153113,calpastatin [Source:HGNC Symbol;Acc:HGNC:1515],epithelial_cell_apoptotic_process
+60,CD40,ENSMUSG00000017652,60.1.1,CD40,ENSG00000101017,CD40 molecule [Source:HGNC Symbol;Acc:HGNC:11919],epithelial_cell_apoptotic_process
+61,CD40,ENSMUSG00000017652,61.1.1,CD40,ENSG00000101017,CD40 molecule [Source:HGNC Symbol;Acc:HGNC:11919],epithelial_cell_apoptotic_process
+62,CD40LG,ENSMUSG00000031132,62.1.1,CD40LG,ENSG00000102245,CD40 ligand [Source:HGNC Symbol;Acc:HGNC:11935],epithelial_cell_apoptotic_process
+63,CD160,ENSMUSG00000038304,63.1.1,CD160,ENSG00000117281,CD160 molecule [Source:HGNC Symbol;Acc:HGNC:17013],epithelial_cell_apoptotic_process
+64,CD248,ENSMUSG00000056481,64.1.1,CD248,ENSG00000174807,CD248 molecule [Source:HGNC Symbol;Acc:HGNC:18219],epithelial_cell_apoptotic_process
+65,CD248,ENSMUSG00000056481,65.1.1,CD248,ENSG00000174807,CD248 molecule [Source:HGNC Symbol;Acc:HGNC:18219],epithelial_cell_apoptotic_process
+66,CDH5,ENSMUSG00000031871,66.1.1,CDH5,ENSG00000179776,cadherin 5 [Source:HGNC Symbol;Acc:HGNC:1764],epithelial_cell_apoptotic_process
+67,CDKN1B,ENSMUSG00000003031,67.1.1,CDKN1B,ENSG00000111276,cyclin dependent kinase inhibitor 1B [Source:HGNC Symbol;Acc:HGNC:1785],epithelial_cell_apoptotic_process
+68,CDKN1B,ENSMUSG00000003031,68.1.1,CDKN1B,ENSG00000111276,cyclin dependent kinase inhibitor 1B [Source:HGNC Symbol;Acc:HGNC:1785],epithelial_cell_apoptotic_process
+69,CFLAR,ENSMUSG00000026031,69.1.1,CFLAR,ENSG00000003402,CASP8 and FADD like apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:1876],epithelial_cell_apoptotic_process
+70,CFLAR,ENSMUSG00000026031,70.1.1,CFLAR,ENSG00000003402,CASP8 and FADD like apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:1876],epithelial_cell_apoptotic_process
+71,COL4A3,ENSMUSG00000079465,71.1.1,COL4A3,ENSG00000169031,collagen type IV alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:2204],epithelial_cell_apoptotic_process
+72,COL18A1,ENSMUSG00000001435,72.1.1,COL18A1,ENSG00000182871,collagen type XVIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2195],epithelial_cell_apoptotic_process
+73,COL18A1,ENSMUSG00000001435,73.1.1,COL18A1,ENSG00000182871,collagen type XVIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2195],epithelial_cell_apoptotic_process
+74,E2F1,ENSMUSG00000027490,74.1.1,E2F1,ENSG00000101412,E2F transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3113],epithelial_cell_apoptotic_process
+75,E2F2,ENSMUSG00000018983,75.1.1,E2F2,ENSG00000007968,E2F transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:3114],epithelial_cell_apoptotic_process
+76,ECSCR,ENSMUSG00000073599,76.1.1,ECSCR,ENSG00000249751,endothelial cell surface expressed chemotaxis and apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:35454],epithelial_cell_apoptotic_process
+77,ECSCR,ENSMUSG00000073599,77.1.1,ECSCR,ENSG00000249751,endothelial cell surface expressed chemotaxis and apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:35454],epithelial_cell_apoptotic_process
+78,EDNRA,ENSMUSG00000031616,78.1.1,EDNRA,ENSG00000151617,endothelin receptor type A [Source:HGNC Symbol;Acc:HGNC:3179],epithelial_cell_apoptotic_process
+79,EIF2S1,ENSMUSG00000021116,79.1.1,EIF2S1,ENSG00000134001,eukaryotic translation initiation factor 2 subunit alpha [Source:HGNC Symbol;Acc:HGNC:3265],epithelial_cell_apoptotic_process
+80,ESR1,ENSMUSG00000019768,80.1.1,ESR1,ENSG00000091831,estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467],epithelial_cell_apoptotic_process
+81,EXOC5,ENSMUSG00000061244,81.1.1,EXOC5,ENSG00000070367,exocyst complex component 5 [Source:HGNC Symbol;Acc:HGNC:10696],epithelial_cell_apoptotic_process
+82,EXOC5,ENSMUSG00000061244,82.1.1,EXOC5,ENSG00000070367,exocyst complex component 5 [Source:HGNC Symbol;Acc:HGNC:10696],epithelial_cell_apoptotic_process
+83,FAS,ENSMUSG00000024778,83.1.1,FAS,ENSG00000026103,Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920],epithelial_cell_apoptotic_process
+84,FAS,ENSMUSG00000024778,84.1.1,FAS,ENSG00000026103,Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920],epithelial_cell_apoptotic_process
+85,FASL,ENSMUSG00000000817,85.1.1,FASLG,ENSG00000117560,Fas ligand [Source:HGNC Symbol;Acc:HGNC:11936],epithelial_cell_apoptotic_process
+86,FGA,ENSMUSG00000028001,86.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+87,FGA,ENSMUSG00000028001,87.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+88,FGB,ENSMUSG00000033831,88.1.1,FGB,ENSG00000171564,fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662],epithelial_cell_apoptotic_process
+89,FGF4,ENSMUSG00000050917,89.1.1,FGF4,ENSG00000075388,fibroblast growth factor 4 [Source:HGNC Symbol;Acc:HGNC:3682],epithelial_cell_apoptotic_process
+90,FGF21,ENSMUSG00000030827,90.1.1,FGF21,ENSG00000105550,fibroblast growth factor 21 [Source:HGNC Symbol;Acc:HGNC:3678],epithelial_cell_apoptotic_process
+91,FGG,ENSMUSG00000033860,91.1.1,FGG,ENSG00000171557,fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694],epithelial_cell_apoptotic_process
+92,FOXO3,ENSMUSG00000048756,92.1.1,FOXO3,ENSG00000118689,forkhead box O3 [Source:HGNC Symbol;Acc:HGNC:3821],epithelial_cell_apoptotic_process
+92,FOXO3,ENSMUSG00000048756,92.1.2,FOXO3B,ENSG00000240445,forkhead box O3B [Source:HGNC Symbol;Acc:HGNC:3822],epithelial_cell_apoptotic_process
+93,GAS6,ENSMUSG00000031451,93.1.1,GAS6,ENSG00000183087,growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168],epithelial_cell_apoptotic_process
+94,GATA2,ENSMUSG00000015053,94.1.1,GATA2,ENSG00000179348,GATA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4171],epithelial_cell_apoptotic_process
+95,GATA3,ENSMUSG00000015619,95.1.1,GATA3,ENSG00000107485,GATA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:4172],epithelial_cell_apoptotic_process
+96,GCM2,ENSMUSG00000021362,96.1.1,GCM2,ENSG00000124827,glial cells missing transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:4198],epithelial_cell_apoptotic_process
+97,GCM2,ENSMUSG00000021362,97.1.1,GCM2,ENSG00000124827,glial cells missing transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:4198],epithelial_cell_apoptotic_process
+98,GPER1,ENSMUSG00000053647,98.1.1,GPER1,ENSG00000164850,G protein-coupled estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:4485],epithelial_cell_apoptotic_process
+99,GSK3B,ENSMUSG00000022812,99.1.1,GSK3B,ENSG00000082701,glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617],epithelial_cell_apoptotic_process
+100,GSN,ENSMUSG00000026879,100.1.1,GSN,ENSG00000148180,gelsolin [Source:HGNC Symbol;Acc:HGNC:4620],epithelial_cell_apoptotic_process
+101,GSN,ENSMUSG00000026879,101.1.1,GSN,ENSG00000148180,gelsolin [Source:HGNC Symbol;Acc:HGNC:4620],epithelial_cell_apoptotic_process
+102,H2-D1,ENSMUSG00000073411,102.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+103,H2-K1,ENSMUSG00000061232,103.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+104,H2-M2,ENSMUSG00000016283,104.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+105,H2-M3,ENSMUSG00000016206,105.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+106,H2-M5,ENSMUSG00000024459,106.1.1,HLA-F,ENSG00000204642,"major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]",epithelial_cell_apoptotic_process
+107,H2-M10.1,ENSMUSG00000024448,107.1.1,HLA-F,ENSG00000204642,"major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]",epithelial_cell_apoptotic_process
+108,H2-M10.2,ENSMUSG00000023083,108.1.1,HLA-F,ENSG00000204642,"major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]",epithelial_cell_apoptotic_process
+109,H2-M10.4,ENSMUSG00000048231,109.1.1,HLA-F,ENSG00000204642,"major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]",epithelial_cell_apoptotic_process
+110,H2-M10.6,ENSMUSG00000037130,110.1.1,HLA-F,ENSG00000204642,"major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]",epithelial_cell_apoptotic_process
+111,H2-M11,ENSMUSG00000037537,111.1.1,HLA-F,ENSG00000204642,"major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]",epithelial_cell_apoptotic_process
+112,H2-Q1,ENSMUSG00000079507,112.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+113,H2-Q2,ENSMUSG00000091705,113.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+114,H2-Q6,ENSMUSG00000073409,114.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+115,H2-Q7,ENSMUSG00000060550,115.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+116,H2-Q10,ENSMUSG00000067235,116.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+117,H2-T22,ENSMUSG00000056116,117.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+118,H2-T26,N/A,118.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+119,HAND2,ENSMUSG00000038193,119.1.1,HAND2,ENSG00000164107,heart and neural crest derivatives expressed 2 [Source:HGNC Symbol;Acc:HGNC:4808],epithelial_cell_apoptotic_process
+120,HAND2,ENSMUSG00000038193,120.1.1,HAND2,ENSG00000164107,heart and neural crest derivatives expressed 2 [Source:HGNC Symbol;Acc:HGNC:4808],epithelial_cell_apoptotic_process
+121,HDAC3,ENSMUSG00000024454,121.1.1,HDAC3,ENSG00000171720,histone deacetylase 3 [Source:HGNC Symbol;Acc:HGNC:4854],epithelial_cell_apoptotic_process
+122,HIPK1,ENSMUSG00000008730,122.1.1,HIPK1,ENSG00000163349,homeodomain interacting protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:19006],epithelial_cell_apoptotic_process
+123,HMOX1,ENSMUSG00000005413,123.1.1,HMOX1,ENSG00000100292,heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013],epithelial_cell_apoptotic_process
+124,HMOX1,ENSMUSG00000005413,124.1.1,HMOX1,ENSG00000100292,heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013],epithelial_cell_apoptotic_process
+125,HMOX1,ENSMUSG00000005413,125.1.1,HMOX1,ENSG00000100292,heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013],epithelial_cell_apoptotic_process
+126,ICAM1,ENSMUSG00000037405,126.1.1,ICAM1,ENSG00000090339,intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344],epithelial_cell_apoptotic_process
+127,ID1,ENSMUSG00000042745,127.1.1,ID1,ENSG00000125968,inhibitor of DNA binding 1 [Source:HGNC Symbol;Acc:HGNC:5360],epithelial_cell_apoptotic_process
+128,ID1,ENSMUSG00000042745,128.1.1,ID1,ENSG00000125968,inhibitor of DNA binding 1 [Source:HGNC Symbol;Acc:HGNC:5360],epithelial_cell_apoptotic_process
+129,IGF1,ENSMUSG00000020053,129.1.1,IGF1,ENSG00000017427,insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464],epithelial_cell_apoptotic_process
+130,IGF1R,ENSMUSG00000005533,130.1.1,IGF1R,ENSG00000140443,insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465],epithelial_cell_apoptotic_process
+131,IGF1R,ENSMUSG00000005533,131.1.1,IGF1R,ENSG00000140443,insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465],epithelial_cell_apoptotic_process
+132,IL4,ENSMUSG00000000869,132.1.1,IL4,ENSG00000113520,interleukin 4 [Source:HGNC Symbol;Acc:HGNC:6014],epithelial_cell_apoptotic_process
+133,IL4,ENSMUSG00000000869,133.1.1,IL4,ENSG00000113520,interleukin 4 [Source:HGNC Symbol;Acc:HGNC:6014],epithelial_cell_apoptotic_process
+134,IL10,ENSMUSG00000016529,134.1.1,IL10,ENSG00000136634,interleukin 10 [Source:HGNC Symbol;Acc:HGNC:5962],epithelial_cell_apoptotic_process
+135,IL13,ENSMUSG00000020383,135.1.1,IL13,ENSG00000169194,interleukin 13 [Source:HGNC Symbol;Acc:HGNC:5973],epithelial_cell_apoptotic_process
+136,ISL1,ENSMUSG00000042258,136.1.1,ISL1,ENSG00000016082,ISL LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6132],epithelial_cell_apoptotic_process
+137,ITGA4,ENSMUSG00000027009,137.1.1,ITGA4,ENSG00000115232,integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140],epithelial_cell_apoptotic_process
+138,ITGB3,ENSMUSG00000020689,138.1.1,ITGB3,ENSG00000259207,integrin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6156],epithelial_cell_apoptotic_process
+139,ITGB3BP,ENSMUSG00000028549,139.1.1,ITGB3BP,ENSG00000142856,integrin subunit beta 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6157],epithelial_cell_apoptotic_process
+140,JAG2,ENSMUSG00000002799,140.1.1,JAG2,ENSG00000184916,jagged canonical Notch ligand 2 [Source:HGNC Symbol;Acc:HGNC:6189],epithelial_cell_apoptotic_process
+141,JAK2,ENSMUSG00000024789,141.1.1,JAK2,ENSG00000096968,Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192],epithelial_cell_apoptotic_process
+142,KCNN4,ENSMUSG00000054342,142.1.1,KCNN4,ENSG00000104783,potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293],epithelial_cell_apoptotic_process
+143,KDR,ENSMUSG00000062960,143.1.1,KDR,ENSG00000128052,kinase insert domain receptor [Source:HGNC Symbol;Acc:HGNC:6307],epithelial_cell_apoptotic_process
+144,KRIT1,ENSMUSG00000000600,144.1.1,KRIT1,ENSG00000001631,KRIT1 ankyrin repeat containing [Source:HGNC Symbol;Acc:HGNC:1573],epithelial_cell_apoptotic_process
+145,KRT8,ENSMUSG00000049382,145.1.1,KRT8,ENSG00000170421,keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446],epithelial_cell_apoptotic_process
+146,KRT18,ENSMUSG00000023043,146.1.1,KRT18,ENSG00000111057,keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430],epithelial_cell_apoptotic_process
+147,LEF1,ENSMUSG00000027985,147.1.1,LEF1,ENSG00000138795,lymphoid enhancer binding factor 1 [Source:HGNC Symbol;Acc:HGNC:6551],epithelial_cell_apoptotic_process
+148,LIMS1,ENSMUSG00000019920,148.1.1,LIMS4,ENSG00000256671,LIM zinc finger domain containing 4 [Source:HGNC Symbol;Acc:HGNC:39941],epithelial_cell_apoptotic_process
+148,LIMS1,ENSMUSG00000019920,148.1.2,LIMS3,ENSG00000256977,LIM zinc finger domain containing 3 [Source:HGNC Symbol;Acc:HGNC:30047],epithelial_cell_apoptotic_process
+149,LIMS1,ENSMUSG00000019920,149.1.1,LIMS4,ENSG00000256671,LIM zinc finger domain containing 4 [Source:HGNC Symbol;Acc:HGNC:39941],epithelial_cell_apoptotic_process
+149,LIMS1,ENSMUSG00000019920,149.1.2,LIMS3,ENSG00000256977,LIM zinc finger domain containing 3 [Source:HGNC Symbol;Acc:HGNC:30047],epithelial_cell_apoptotic_process
+150,MAPK7,ENSMUSG00000001034,150.1.1,MAPK7,ENSG00000166484,mitogen-activated protein kinase 7 [Source:HGNC Symbol;Acc:HGNC:6880],epithelial_cell_apoptotic_process
+151,MAPK8,ENSMUSG00000021936,151.1.1,MAPK8,ENSG00000107643,mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881],epithelial_cell_apoptotic_process
+152,MDK,ENSMUSG00000027239,152.1.1,MDK,ENSG00000110492,midkine [Source:HGNC Symbol;Acc:HGNC:6972],epithelial_cell_apoptotic_process
+153,MST1,ENSMUSG00000032591,153.1.1,MST1,ENSG00000173531,macrophage stimulating 1 [Source:HGNC Symbol;Acc:HGNC:7380],epithelial_cell_apoptotic_process
+154,MTCH2,ENSMUSG00000027282,154.1.1,MTCH2,ENSG00000109919,mitochondrial carrier 2 [Source:HGNC Symbol;Acc:HGNC:17587],epithelial_cell_apoptotic_process
+155,MTCH2,ENSMUSG00000027282,155.1.1,MTCH2,ENSG00000109919,mitochondrial carrier 2 [Source:HGNC Symbol;Acc:HGNC:17587],epithelial_cell_apoptotic_process
+156,MTOR,ENSMUSG00000028991,156.1.1,MTOR,ENSG00000198793,mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942],epithelial_cell_apoptotic_process
+157,MTOR,ENSMUSG00000028991,157.1.1,MTOR,ENSG00000198793,mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942],epithelial_cell_apoptotic_process
+158,MYC,ENSMUSG00000022346,158.1.1,MYC,ENSG00000136997,"MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]",epithelial_cell_apoptotic_process
+159,NAIP1,ENSMUSG00000021640,159.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+160,NAIP1,ENSMUSG00000021640,160.1.1,N/A,N/A,N/A,epithelial_cell_apoptotic_process
+161,NDNF,ENSMUSG00000049001,161.1.1,NDNF,ENSG00000173376,neuron derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:26256],epithelial_cell_apoptotic_process
+162,NEUROD1,ENSMUSG00000034701,162.1.1,NEUROD1,ENSG00000162992,neuronal differentiation 1 [Source:HGNC Symbol;Acc:HGNC:7762],epithelial_cell_apoptotic_process
+163,NFE2L2,ENSMUSG00000015839,163.1.1,NFE2L2,ENSG00000116044,NFE2 like bZIP transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:7782],epithelial_cell_apoptotic_process
+164,NFKBIZ,ENSMUSG00000035356,164.1.1,NFKBIZ,ENSG00000144802,NFKB inhibitor zeta [Source:HGNC Symbol;Acc:HGNC:29805],epithelial_cell_apoptotic_process
+165,NGF,ENSMUSG00000027859,165.1.1,NGF,ENSG00000134259,nerve growth factor [Source:HGNC Symbol;Acc:HGNC:7808],epithelial_cell_apoptotic_process
+166,NKX2-5,ENSMUSG00000015579,166.1.1,NKX2-5,ENSG00000183072,NK2 homeobox 5 [Source:HGNC Symbol;Acc:HGNC:2488],epithelial_cell_apoptotic_process
+167,NKX2-5,ENSMUSG00000015579,167.1.1,NKX2-5,ENSG00000183072,NK2 homeobox 5 [Source:HGNC Symbol;Acc:HGNC:2488],epithelial_cell_apoptotic_process
+168,NKX2-6,ENSMUSG00000044186,168.1.1,NKX2-6,ENSG00000180053,NK2 homeobox 6 [Source:HGNC Symbol;Acc:HGNC:32940],epithelial_cell_apoptotic_process
+169,NKX2-6,ENSMUSG00000044186,169.1.1,NKX2-6,ENSG00000180053,NK2 homeobox 6 [Source:HGNC Symbol;Acc:HGNC:32940],epithelial_cell_apoptotic_process
+170,NPC1,ENSMUSG00000024413,170.1.1,NPC1,ENSG00000141458,NPC intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7897],epithelial_cell_apoptotic_process
+171,NUPR1,ENSMUSG00000030717,171.1.1,NUPR1,ENSG00000176046,"nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]",epithelial_cell_apoptotic_process
+172,PAK4,ENSMUSG00000030602,172.1.1,PAK4,ENSG00000130669,p21 (RAC1) activated kinase 4 [Source:HGNC Symbol;Acc:HGNC:16059],epithelial_cell_apoptotic_process
+173,PDCD4,ENSMUSG00000024975,173.1.1,PDCD4,ENSG00000150593,programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763],epithelial_cell_apoptotic_process
+174,PDX1,ENSMUSG00000029644,174.1.1,PDX1,ENSG00000139515,pancreatic and duodenal homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6107],epithelial_cell_apoptotic_process
+175,PDX1,ENSMUSG00000029644,175.1.1,PDX1,ENSG00000139515,pancreatic and duodenal homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6107],epithelial_cell_apoptotic_process
+176,PGR,ENSMUSG00000031870,176.1.1,PGR,ENSG00000082175,progesterone receptor [Source:HGNC Symbol;Acc:HGNC:8910],epithelial_cell_apoptotic_process
+177,PIAS4,ENSMUSG00000004934,177.1.1,PIAS4,ENSG00000105229,protein inhibitor of activated STAT 4 [Source:HGNC Symbol;Acc:HGNC:17002],epithelial_cell_apoptotic_process
+178,PIK3CG,ENSMUSG00000020573,178.1.1,PIK3CG,ENSG00000105851,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]",epithelial_cell_apoptotic_process
+179,PKHD1,ENSMUSG00000043760,179.1.1,PKHD1,ENSG00000170927,PKHD1 ciliary IPT domain containing fibrocystin/polyductin [Source:HGNC Symbol;Acc:HGNC:9016],epithelial_cell_apoptotic_process
+180,PLA2G1B,ENSMUSG00000029522,180.1.1,PLA2G1B,ENSG00000170890,phospholipase A2 group IB [Source:HGNC Symbol;Acc:HGNC:9030],epithelial_cell_apoptotic_process
+181,PLA2R1,ENSMUSG00000054580,181.1.1,PLA2R1,ENSG00000153246,phospholipase A2 receptor 1 [Source:HGNC Symbol;Acc:HGNC:9042],epithelial_cell_apoptotic_process
+182,PLCG1,ENSMUSG00000016933,182.1.1,PLCG1,ENSG00000124181,phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065],epithelial_cell_apoptotic_process
+183,PPARA,ENSMUSG00000022383,183.1.1,PPARA,ENSG00000186951,peroxisome proliferator activated receptor alpha [Source:HGNC Symbol;Acc:HGNC:9232],epithelial_cell_apoptotic_process
+184,PPARGC1A,ENSMUSG00000029167,184.1.1,PPARGC1A,ENSG00000109819,PPARG coactivator 1 alpha [Source:HGNC Symbol;Acc:HGNC:9237],epithelial_cell_apoptotic_process
+185,PRKAA1,ENSMUSG00000050697,185.1.1,PRKAA1,ENSG00000132356,protein kinase AMP-activated catalytic subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9376],epithelial_cell_apoptotic_process
+186,PRKAA2,ENSMUSG00000028518,186.1.1,PRKAA2,ENSG00000162409,protein kinase AMP-activated catalytic subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:9377],epithelial_cell_apoptotic_process
+187,PRKCI,ENSMUSG00000037643,187.1.1,PRKCI,ENSG00000163558,protein kinase C iota [Source:HGNC Symbol;Acc:HGNC:9404],epithelial_cell_apoptotic_process
+188,PSMD9,ENSMUSG00000029440,188.1.1,PSMD9,ENSG00000110801,"proteasome 26S subunit, non-ATPase 9 [Source:HGNC Symbol;Acc:HGNC:9567]",epithelial_cell_apoptotic_process
+189,RAMP2,ENSMUSG00000001240,189.1.1,RAMP2,ENSG00000131477,receptor activity modifying protein 2 [Source:HGNC Symbol;Acc:HGNC:9844],epithelial_cell_apoptotic_process
+190,RAMP2,ENSMUSG00000001240,190.1.1,RAMP2,ENSG00000131477,receptor activity modifying protein 2 [Source:HGNC Symbol;Acc:HGNC:9844],epithelial_cell_apoptotic_process
+191,RB1,ENSMUSG00000022105,191.1.1,RB1,ENSG00000139687,RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884],epithelial_cell_apoptotic_process
+192,RB1,ENSMUSG00000022105,192.1.1,RB1,ENSG00000139687,RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884],epithelial_cell_apoptotic_process
+193,RGCC,ENSMUSG00000022018,193.1.1,RGCC,ENSG00000102760,regulator of cell cycle [Source:HGNC Symbol;Acc:HGNC:20369],epithelial_cell_apoptotic_process
+194,RYR2,ENSMUSG00000021313,194.1.1,RYR2,ENSG00000198626,ryanodine receptor 2 [Source:HGNC Symbol;Acc:HGNC:10484],epithelial_cell_apoptotic_process
+195,RYR2,ENSMUSG00000021313,195.1.1,RYR2,ENSG00000198626,ryanodine receptor 2 [Source:HGNC Symbol;Acc:HGNC:10484],epithelial_cell_apoptotic_process
+196,SAV1,ENSMUSG00000021067,196.1.1,SAV1,ENSG00000151748,salvador family WW domain containing protein 1 [Source:HGNC Symbol;Acc:HGNC:17795],epithelial_cell_apoptotic_process
+197,SAV1,ENSMUSG00000021067,197.1.1,SAV1,ENSG00000151748,salvador family WW domain containing protein 1 [Source:HGNC Symbol;Acc:HGNC:17795],epithelial_cell_apoptotic_process
+198,SCG2,ENSMUSG00000050711,198.1.1,SCG2,ENSG00000171951,secretogranin II [Source:HGNC Symbol;Acc:HGNC:10575],epithelial_cell_apoptotic_process
+199,SEMA5A,ENSMUSG00000022231,199.1.1,SEMA5A,ENSG00000112902,semaphorin 5A [Source:HGNC Symbol;Acc:HGNC:10736],epithelial_cell_apoptotic_process
+200,SERPINB13,ENSMUSG00000048775,200.1.1,SERPINB13,ENSG00000197641,serpin family B member 13 [Source:HGNC Symbol;Acc:HGNC:8944],epithelial_cell_apoptotic_process
+201,SERPINE1,ENSMUSG00000037411,201.1.1,SERPINE1,ENSG00000106366,serpin family E member 1 [Source:HGNC Symbol;Acc:HGNC:8583],epithelial_cell_apoptotic_process
+202,SFRP4,ENSMUSG00000021319,202.1.1,SFRP4,ENSG00000106483,secreted frizzled related protein 4 [Source:HGNC Symbol;Acc:HGNC:10778],epithelial_cell_apoptotic_process
+203,SIX3,ENSMUSG00000038805,203.1.1,SIX3,ENSG00000138083,SIX homeobox 3 [Source:HGNC Symbol;Acc:HGNC:10889],epithelial_cell_apoptotic_process
+204,SORT1,ENSMUSG00000068747,204.1.1,SORT1,ENSG00000134243,sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186],epithelial_cell_apoptotic_process
+205,SPOP,ENSMUSG00000057522,205.1.1,SPOP,ENSG00000121067,speckle type BTB/POZ protein [Source:HGNC Symbol;Acc:HGNC:11254],epithelial_cell_apoptotic_process
+206,SPOP,ENSMUSG00000057522,206.1.1,SPOP,ENSG00000121067,speckle type BTB/POZ protein [Source:HGNC Symbol;Acc:HGNC:11254],epithelial_cell_apoptotic_process
+207,SRSF6,ENSMUSG00000016921,207.1.1,SRSF6,ENSG00000124193,serine and arginine rich splicing factor 6 [Source:HGNC Symbol;Acc:HGNC:10788],epithelial_cell_apoptotic_process
+208,STK3,ENSMUSG00000022329,208.1.1,STK3,ENSG00000104375,serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:11406],epithelial_cell_apoptotic_process
+209,STK4,ENSMUSG00000018209,209.1.1,STK4,ENSG00000101109,serine/threonine kinase 4 [Source:HGNC Symbol;Acc:HGNC:11408],epithelial_cell_apoptotic_process
+210,STK4,ENSMUSG00000018209,210.1.1,STK4,ENSG00000101109,serine/threonine kinase 4 [Source:HGNC Symbol;Acc:HGNC:11408],epithelial_cell_apoptotic_process
+211,STK4,ENSMUSG00000018209,211.1.1,STK4,ENSG00000101109,serine/threonine kinase 4 [Source:HGNC Symbol;Acc:HGNC:11408],epithelial_cell_apoptotic_process
+212,TCF7L2,ENSMUSG00000024985,212.1.1,TCF7L2,ENSG00000148737,transcription factor 7 like 2 [Source:HGNC Symbol;Acc:HGNC:11641],epithelial_cell_apoptotic_process
+213,TEK,ENSMUSG00000006386,213.1.1,TEK,ENSG00000120156,TEK receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11724],epithelial_cell_apoptotic_process
+214,TERT,ENSMUSG00000021611,214.1.1,TERT,ENSG00000164362,telomerase reverse transcriptase [Source:HGNC Symbol;Acc:HGNC:11730],epithelial_cell_apoptotic_process
+215,TGFB1,ENSMUSG00000002603,215.1.1,TGFB1,ENSG00000105329,transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766],epithelial_cell_apoptotic_process
+216,TGFBR2,ENSMUSG00000032440,216.1.1,TGFBR2,ENSG00000163513,transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773],epithelial_cell_apoptotic_process
+217,THBS1,ENSMUSG00000040152,217.1.1,THBS1,ENSG00000137801,thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785],epithelial_cell_apoptotic_process
+218,TIA1,ENSMUSG00000071337,218.1.1,TIA1,ENSG00000116001,TIA1 cytotoxic granule associated RNA binding protein [Source:HGNC Symbol;Acc:HGNC:11802],epithelial_cell_apoptotic_process
+219,TMEM258,ENSMUSG00000036372,219.1.1,TMEM258,ENSG00000134825,transmembrane protein 258 [Source:HGNC Symbol;Acc:HGNC:1164],epithelial_cell_apoptotic_process
+220,TMF1,ENSMUSG00000030059,220.1.1,TMF1,ENSG00000144747,TATA element modulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:11870],epithelial_cell_apoptotic_process
+221,TMF1,ENSMUSG00000030059,221.1.1,TMF1,ENSG00000144747,TATA element modulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:11870],epithelial_cell_apoptotic_process
+222,TNF,ENSMUSG00000024401,222.1.1,TNF,ENSG00000232810,tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892],epithelial_cell_apoptotic_process
+223,TNF,ENSMUSG00000024401,223.1.1,TNF,ENSG00000232810,tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892],epithelial_cell_apoptotic_process
+224,TNFAIP3,ENSMUSG00000019850,224.1.1,TNFAIP3,ENSG00000118503,TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896],epithelial_cell_apoptotic_process
+225,TNIP2,ENSMUSG00000059866,225.1.1,TNIP2,ENSG00000168884,TNFAIP3 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:19118],epithelial_cell_apoptotic_process
+226,TRIM32,ENSMUSG00000051675,226.1.1,TRIM32,ENSG00000119401,tripartite motif containing 32 [Source:HGNC Symbol;Acc:HGNC:16380],epithelial_cell_apoptotic_process
+227,TRP63,ENSMUSG00000022510,227.1.1,TP63,ENSG00000073282,tumor protein p63 [Source:HGNC Symbol;Acc:HGNC:15979],epithelial_cell_apoptotic_process
+228,TRP63,ENSMUSG00000022510,228.1.1,TP63,ENSG00000073282,tumor protein p63 [Source:HGNC Symbol;Acc:HGNC:15979],epithelial_cell_apoptotic_process
+229,TTPA,ENSMUSG00000073988,229.1.1,TTPA,ENSG00000137561,alpha tocopherol transfer protein [Source:HGNC Symbol;Acc:HGNC:12404],epithelial_cell_apoptotic_process
+230,UMODL1,ENSMUSG00000054134,230.1.1,UMODL1,ENSG00000177398,uromodulin like 1 [Source:HGNC Symbol;Acc:HGNC:12560],epithelial_cell_apoptotic_process
+231,USP53,ENSMUSG00000039701,231.1.1,USP53,ENSG00000145390,ubiquitin specific peptidase 53 [Source:HGNC Symbol;Acc:HGNC:29255],epithelial_cell_apoptotic_process
+232,WFS1,ENSMUSG00000039474,232.1.1,WFS1,ENSG00000109501,wolframin ER transmembrane glycoprotein [Source:HGNC Symbol;Acc:HGNC:12762],epithelial_cell_apoptotic_process
+233,WFS1,ENSMUSG00000039474,233.1.1,WFS1,ENSG00000109501,wolframin ER transmembrane glycoprotein [Source:HGNC Symbol;Acc:HGNC:12762],epithelial_cell_apoptotic_process
+234,WFS1,ENSMUSG00000039474,234.1.1,WFS1,ENSG00000109501,wolframin ER transmembrane glycoprotein [Source:HGNC Symbol;Acc:HGNC:12762],epithelial_cell_apoptotic_process
+235,WNT11,ENSMUSG00000015957,235.1.1,WNT11,ENSG00000085741,Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776],epithelial_cell_apoptotic_process
+236,WNT11,ENSMUSG00000015957,236.1.1,WNT11,ENSG00000085741,Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776],epithelial_cell_apoptotic_process
+237,XBP1,ENSMUSG00000020484,237.1.1,XBP1,ENSG00000100219,X-box binding protein 1 [Source:HGNC Symbol;Acc:HGNC:12801],epithelial_cell_apoptotic_process
+238,YAP1,ENSMUSG00000053110,238.1.1,YAP1,ENSG00000137693,Yes1 associated transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:16262],epithelial_cell_apoptotic_process
+239,ZFP36,ENSMUSG00000044786,239.1.1,ZFP36,ENSG00000128016,ZFP36 ring finger protein [Source:HGNC Symbol;Acc:HGNC:12862],epithelial_cell_apoptotic_process
+240,ZFP36L1,ENSMUSG00000021127,240.1.1,ZFP36L1,ENSG00000185650,ZFP36 ring finger protein like 1 [Source:HGNC Symbol;Acc:HGNC:1107],epithelial_cell_apoptotic_process

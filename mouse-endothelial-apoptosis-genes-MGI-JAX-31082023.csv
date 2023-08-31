@@ -1,0 +1,91 @@
+MGI_Gene_Marker_ID,Symbol,Name,Chr,Qualifier,Annotated_Term,Context,Proteoform,Evidence,Inferred_From,Reference(s),component
+MGI:87859,Abl1,"c-abl oncogene 1, non-receptor tyrosine kinase",2,NA,negative regulation of endothelial cell apoptotic process,NA,NA,IGI,MGI:87860,J:198786,endothelial_cell_apoptotic_process
+MGI:87860,Abl2,"ABL proto-oncogene 2, non-receptor tyrosine kinase",1,NA,negative regulation of endothelial cell apoptotic process,NA,NA,IGI,MGI:87859,J:198786,endothelial_cell_apoptotic_process
+MGI:893592,Ager,advanced glycosylation end product-specific receptor,17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,RGD:69258,J:155856,endothelial_cell_apoptotic_process
+MGI:1933427,Akr1c6,"aldo-keto reductase family 1, member C6",13,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P42330,J:164563,endothelial_cell_apoptotic_process
+MGI:2145458,Akr1c14,"aldo-keto reductase family 1, member C14",13,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P42330,J:164563,endothelial_cell_apoptotic_process
+MGI:2145420,Akr1c18,"aldo-keto reductase family 1, member C18",13,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P42330,J:164563,endothelial_cell_apoptotic_process
+MGI:2151104,Akr1c20,"aldo-keto reductase family 1, member C20",13,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P42330,J:164563,endothelial_cell_apoptotic_process
+MGI:1918111,Akr1cl,"aldo-keto reductase family 1, member C-like",1,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P42330,J:164563,endothelial_cell_apoptotic_process
+MGI:108448,Angpt1,angiopoietin 1,15,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,Q15389,J:164563,endothelial_cell_apoptotic_process
+MGI:1888999,Angptl4,angiopoietin-like 4,17,NA,endothelial cell apoptotic process,happens in endothelial cell,NA,IDA,NA,J:61082,endothelial_cell_apoptotic_process
+MGI:1888999,Angptl4,angiopoietin-like 4,17,NA,negative regulation of endothelial cell apoptotic process,negatively regulates endothelial cell apoptotic process,NA,IDA,NA,J:61082,endothelial_cell_apoptotic_process
+MGI:2145890,Ano6,anoctamin 6,15,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,Q4KMQ2,J:164563,endothelial_cell_apoptotic_process
+MGI:88180,Bmp4,bone morphogenetic protein 4,14,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,RGD:2213,J:155856,endothelial_cell_apoptotic_process
+MGI:1095407,Bmpr2,bone morphogenetic protein receptor type 2,1,NA,endothelial cell apoptotic process,NA,NA,ISO,Q13873,J:164563,endothelial_cell_apoptotic_process
+MGI:88190,Braf,Braf transforming gene,6,NA,endothelial cell apoptotic process,happens in cardiovascular system,NA,IMP,MGI:1857579,J:41257,endothelial_cell_apoptotic_process
+MGI:88190,Braf,Braf transforming gene,6,NA,negative regulation of endothelial cell apoptotic process,negatively regulates endothelial cell apoptotic process,NA,IMP,MGI:1857579,J:41257,endothelial_cell_apoptotic_process
+MGI:88336,Cd40,CD40 antigen,2,NA,positive regulation of endothelial cell apoptotic process,NA,NA,IBA,PTN005324942,J:265628,endothelial_cell_apoptotic_process
+MGI:88336,Cd40,CD40 antigen,2,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P25942,J:164563,endothelial_cell_apoptotic_process
+MGI:88337,Cd40lg,CD40 ligand,X,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P29965,J:164563,endothelial_cell_apoptotic_process
+MGI:1860383,Cd160,CD160 antigen,3,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,O95971,J:164563,endothelial_cell_apoptotic_process
+MGI:1917695,Cd248,"CD248 antigen, endosialin",19,NA,endothelial cell apoptotic process,happens in retina,NA,IMP,MGI:3625491,J:189188,endothelial_cell_apoptotic_process
+MGI:1917695,Cd248,"CD248 antigen, endosialin",19,NA,positive regulation of endothelial cell apoptotic process,positively regulates endothelial cell apoptotic process,NA,IMP,MGI:3625491,J:189188,endothelial_cell_apoptotic_process
+MGI:105057,Cdh5,cadherin 5,8,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P33151,J:164563,endothelial_cell_apoptotic_process
+MGI:104688,Col4a3,"collagen, type IV, alpha 3",1,NA,endothelial cell apoptotic process,NA,NA,ISO,Q01955,J:164563,endothelial_cell_apoptotic_process
+MGI:88451,Col18a1,"collagen, type XVIII, alpha 1",10,NA,endothelial cell apoptotic process,happens in blood vessel endothelial cell,NA,IDA,NA,J:91211,endothelial_cell_apoptotic_process
+MGI:88451,Col18a1,"collagen, type XVIII, alpha 1",10,NA,positive regulation of endothelial cell apoptotic process,positively regulates endothelial cell apoptotic process,NA,IDA,NA,J:91211,endothelial_cell_apoptotic_process
+MGI:1915795,Ecscr,endothelial cell surface expressed chemotaxis and apoptosis regulator,18,NA,positive regulation of endothelial cell apoptotic process,NA,NA,IBA,PTN002006527,J:265628,endothelial_cell_apoptotic_process
+MGI:1915795,Ecscr,endothelial cell surface expressed chemotaxis and apoptosis regulator,18,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,Q19T08,J:148532,endothelial_cell_apoptotic_process
+MGI:99255,Fasl,Fas ligand,1,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P48023,J:164563,endothelial_cell_apoptotic_process
+MGI:1316726,Fga,fibrinogen alpha chain,3,NA,negative regulation of endothelial cell apoptotic process,NA,NA,IBA,PTN000441572,J:265628,endothelial_cell_apoptotic_process
+MGI:1316726,Fga,fibrinogen alpha chain,3,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P02671,J:164563,endothelial_cell_apoptotic_process
+MGI:99501,Fgb,fibrinogen beta chain,3,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P02675,J:164563,endothelial_cell_apoptotic_process
+MGI:1861377,Fgf21,fibroblast growth factor 21,7,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,RGD:620175,J:155856,endothelial_cell_apoptotic_process
+MGI:95526,Fgg,fibrinogen gamma chain,3,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P02679,J:164563,endothelial_cell_apoptotic_process
+MGI:1890081,Foxo3,forkhead box O3,10,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,RGD:1309196,J:155856,endothelial_cell_apoptotic_process
+MGI:95660,Gas6,growth arrest specific 6,8,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,Q14393,J:164563,endothelial_cell_apoptotic_process
+MGI:95662,Gata2,GATA binding protein 2,6,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P23769,J:164563,endothelial_cell_apoptotic_process
+MGI:95663,Gata3,GATA binding protein 3,2,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P23771,J:164563,endothelial_cell_apoptotic_process
+MGI:1924104,Gper1,G protein-coupled estrogen receptor 1,5,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,RGD:619845,J:155856,endothelial_cell_apoptotic_process
+MGI:95896,H2-D1,"histocompatibility 2, D region locus 1",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95904,H2-K1,"histocompatibility 2, K1, K region",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95914,H2-M2,"histocompatibility 2, M region locus 2",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95915,H2-M3,"histocompatibility 2, M region locus 3",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95917,H2-M5,"histocompatibility 2, M region locus 5",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:1276522,H2-M10.1,"histocompatibility 2, M region locus 10.1",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:1276525,H2-M10.2,"histocompatibility 2, M region locus 10.2",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:1276527,H2-M10.4,"histocompatibility 2, M region locus 10.4",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:2687364,H2-M10.6,"histocompatibility 2, M region locus 10.6",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:2676637,H2-M11,"histocompatibility 2, M region locus 11",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95928,H2-Q1,"histocompatibility 2, Q region locus 1",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95931,H2-Q2,"histocompatibility 2, Q region locus 2",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95935,H2-Q6,"histocompatibility 2, Q region locus 6",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95936,H2-Q7,"histocompatibility 2, Q region locus 7",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95929,H2-Q10,"histocompatibility 2, Q region locus 10",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:95956,H2-T22,"histocompatibility 2, T region locus 22",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:3704134,H2-T26,"histocompatibility 2, T region locus 26",17,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17693,J:164563,endothelial_cell_apoptotic_process
+MGI:1314873,Hipk1,homeodomain interacting protein kinase 1,3,NA,endothelial cell apoptotic process,NA,NA,ISO,Q86Z02,J:164563,endothelial_cell_apoptotic_process
+MGI:96392,Icam1,intercellular adhesion molecule 1,9,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P05362,J:164563,endothelial_cell_apoptotic_process
+MGI:96396,Id1,"inhibitor of DNA binding 1, HLH protein",2,NA,endothelial cell apoptotic process,happens in lung endothelial cell,NA,IMP,MGI:2679939,J:125521,endothelial_cell_apoptotic_process
+MGI:96396,Id1,"inhibitor of DNA binding 1, HLH protein",2,NA,negative regulation of endothelial cell apoptotic process,"negatively regulates apoptotic process,negatively regulates endothelial cell apoptotic process",NA,IMP,MGI:2679939,J:125521,endothelial_cell_apoptotic_process
+MGI:96556,Il4,interleukin 4,11,NA,negative regulation of endothelial cell apoptotic process,NA,NA,IBA,PTN002934025,J:265628,endothelial_cell_apoptotic_process
+MGI:96556,Il4,interleukin 4,11,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P05112,J:164563,endothelial_cell_apoptotic_process
+MGI:96537,Il10,interleukin 10,1,NA,negative regulation of endothelial cell apoptotic process,NA,NA,IGI,P06804,J:235312,endothelial_cell_apoptotic_process
+MGI:96541,Il13,interleukin 13,11,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P35225,J:164563,endothelial_cell_apoptotic_process
+MGI:96603,Itga4,integrin alpha 4,2,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P13612,J:164563,endothelial_cell_apoptotic_process
+MGI:96612,Itgb3,integrin beta 3,11,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,RGD:628868,J:155856,endothelial_cell_apoptotic_process
+MGI:96683,Kdr,kinase insert domain protein receptor,5,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P35968,J:164563,endothelial_cell_apoptotic_process
+MGI:1930618,Krit1,"KRIT1, ankyrin repeat containing",5,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,O00522,J:164563,endothelial_cell_apoptotic_process
+MGI:1346347,Mapk7,mitogen-activated protein kinase 7,11,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,Q13164,J:164563,endothelial_cell_apoptotic_process
+MGI:1915419,Ndnf,neuron-derived neurotrophic factor,6,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,Q8TB73,J:164563,endothelial_cell_apoptotic_process
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,Q16236,J:164563,endothelial_cell_apoptotic_process
+MGI:1917834,Pak4,p21 (RAC1) activated kinase 4,7,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,O96013,J:164563,endothelial_cell_apoptotic_process
+MGI:107490,Pdcd4,programmed cell death 4,19,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,Q53EL6,J:164563,endothelial_cell_apoptotic_process
+MGI:97615,Plcg1,"phospholipase C, gamma 1",2,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P19174,J:164563,endothelial_cell_apoptotic_process
+MGI:99260,Prkci,"protein kinase C, iota",3,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P41743,J:164563,endothelial_cell_apoptotic_process
+MGI:1859650,Ramp2,receptor (calcitonin) activity modifying protein 2,11,NA,negative regulation of endothelial cell apoptotic process,NA,NA,IMP,NA,J:130931,endothelial_cell_apoptotic_process
+MGI:1859650,Ramp2,receptor (calcitonin) activity modifying protein 2,11,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,O60895,J:164563,endothelial_cell_apoptotic_process
+MGI:1913464,Rgcc,regulator of cell cycle,14,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,Q9H4X1,J:164563,endothelial_cell_apoptotic_process
+MGI:103033,Scg2,secretogranin II,1,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P13521,J:164563,endothelial_cell_apoptotic_process
+MGI:107556,Sema5a,"sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A",15,NA,negative regulation of endothelial cell apoptotic process,NA,NA,IDA,NA,J:203404,endothelial_cell_apoptotic_process
+MGI:97608,Serpine1,"serine (or cysteine) peptidase inhibitor, clade E, member 1",5,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P05121,J:164563,endothelial_cell_apoptotic_process
+MGI:98664,Tek,TEK receptor tyrosine kinase,4,NA,negative regulation of endothelial cell apoptotic process,NA,NA,IMP,NA,J:115217,endothelial_cell_apoptotic_process
+MGI:1202709,Tert,telomerase reverse transcriptase,13,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,RGD:70494,J:155856,endothelial_cell_apoptotic_process
+MGI:98725,Tgfb1,"transforming growth factor, beta 1",7,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P01137,J:164563,endothelial_cell_apoptotic_process
+MGI:98737,Thbs1,thrombospondin 1,2,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P07996,J:164563,endothelial_cell_apoptotic_process
+MGI:104798,Tnf,tumor necrosis factor,17,NA,endothelial cell apoptotic process,NA,NA,IDA,NA,J:235312,endothelial_cell_apoptotic_process
+MGI:104798,Tnf,tumor necrosis factor,17,NA,regulation of endothelial cell apoptotic process,NA,NA,ISO,P01375,J:164563,endothelial_cell_apoptotic_process
+MGI:1196377,Tnfaip3,"tumor necrosis factor, alpha-induced protein 3",10,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,P21580,J:164563,endothelial_cell_apoptotic_process
+MGI:2386643,Tnip2,TNFAIP3 interacting protein 2,5,NA,negative regulation of endothelial cell apoptotic process,NA,NA,ISO,Q8NFZ5,J:164563,endothelial_cell_apoptotic_process
+MGI:98970,Xbp1,X-box binding protein 1,11,NA,positive regulation of endothelial cell apoptotic process,NA,NA,ISO,P17861,J:164563,endothelial_cell_apoptotic_process

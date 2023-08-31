@@ -1,0 +1,130 @@
+g_hash,initial_alias,initial_ensg,o_hash,ortholog_name,ortholog_ensg,description,component
+1,APC,ENSMUSG00000005871,1.1.1,APC,ENSG00000134982,APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583],fibroblast_apoptotic_process
+2,APC,ENSMUSG00000005871,2.1.1,APC,ENSG00000134982,APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583],fibroblast_apoptotic_process
+3,API5,ENSMUSG00000027193,3.1.1,API5,ENSG00000166181,apoptosis inhibitor 5 [Source:HGNC Symbol;Acc:HGNC:594],fibroblast_apoptotic_process
+4,API5,ENSMUSG00000027193,4.1.1,API5,ENSG00000166181,apoptosis inhibitor 5 [Source:HGNC Symbol;Acc:HGNC:594],fibroblast_apoptotic_process
+5,BAK1,ENSMUSG00000057789,5.1.1,BAK1,ENSG00000030110,BCL2 antagonist/killer 1 [Source:HGNC Symbol;Acc:HGNC:949],fibroblast_apoptotic_process
+6,BBC3,ENSMUSG00000002083,6.1.1,BBC3,ENSG00000105327,BCL2 binding component 3 [Source:HGNC Symbol;Acc:HGNC:17868],fibroblast_apoptotic_process
+7,BBC3,ENSMUSG00000002083,7.1.1,BBC3,ENSG00000105327,BCL2 binding component 3 [Source:HGNC Symbol;Acc:HGNC:17868],fibroblast_apoptotic_process
+8,BCL2L11,ENSMUSG00000027381,8.1.1,BCL2L11,ENSG00000153094,BCL2 like 11 [Source:HGNC Symbol;Acc:HGNC:994],fibroblast_apoptotic_process
+9,BCL10,ENSMUSG00000028191,9.1.1,BCL10,ENSG00000142867,BCL10 immune signaling adaptor [Source:HGNC Symbol;Acc:HGNC:989],fibroblast_apoptotic_process
+10,BID,ENSMUSG00000004446,10.1.1,BID,ENSG00000015475,BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050],fibroblast_apoptotic_process
+11,BTG1,ENSMUSG00000036478,11.1.1,BTG1,ENSG00000133639,BTG anti-proliferation factor 1 [Source:HGNC Symbol;Acc:HGNC:1130],fibroblast_apoptotic_process
+12,CASP3,ENSMUSG00000031628,12.1.1,CASP3,ENSG00000164305,caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504],fibroblast_apoptotic_process
+13,CASP3,ENSMUSG00000031628,13.1.1,CASP3,ENSG00000164305,caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504],fibroblast_apoptotic_process
+14,CASP7,ENSMUSG00000025076,14.1.1,CASP7,ENSG00000165806,caspase 7 [Source:HGNC Symbol;Acc:HGNC:1508],fibroblast_apoptotic_process
+15,CASP9,ENSMUSG00000028914,15.1.1,CASP9,ENSG00000132906,caspase 9 [Source:HGNC Symbol;Acc:HGNC:1511],fibroblast_apoptotic_process
+16,CASP12,ENSMUSG00000025887,16.1.1,CASP12,ENSG00000204403,caspase 12 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:19004],fibroblast_apoptotic_process
+17,CFDP1,ENSMUSG00000031954,17.1.1,CFDP1,ENSG00000153774,craniofacial development protein 1 [Source:HGNC Symbol;Acc:HGNC:1873],fibroblast_apoptotic_process
+18,CFDP1,ENSMUSG00000031954,18.1.1,CFDP1,ENSG00000153774,craniofacial development protein 1 [Source:HGNC Symbol;Acc:HGNC:1873],fibroblast_apoptotic_process
+19,CHD8,ENSMUSG00000053754,19.1.1,CHD8,ENSG00000100888,chromodomain helicase DNA binding protein 8 [Source:HGNC Symbol;Acc:HGNC:20153],fibroblast_apoptotic_process
+20,CUL3,ENSMUSG00000004364,20.1.1,CUL3,ENSG00000036257,cullin 3 [Source:HGNC Symbol;Acc:HGNC:2553],fibroblast_apoptotic_process
+21,DDIAS,ENSMUSG00000030641,21.1.1,DDIAS,ENSG00000165490,DNA damage induced apoptosis suppressor [Source:HGNC Symbol;Acc:HGNC:26351],fibroblast_apoptotic_process
+22,DDIAS,ENSMUSG00000030641,22.1.1,DDIAS,ENSG00000165490,DNA damage induced apoptosis suppressor [Source:HGNC Symbol;Acc:HGNC:26351],fibroblast_apoptotic_process
+23,GAS6,ENSMUSG00000031451,23.1.1,GAS6,ENSG00000183087,growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168],fibroblast_apoptotic_process
+24,GAS6,ENSMUSG00000031451,24.1.1,GAS6,ENSG00000183087,growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168],fibroblast_apoptotic_process
+25,GAS6,ENSMUSG00000031451,25.1.1,GAS6,ENSG00000183087,growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168],fibroblast_apoptotic_process
+26,IER3IP1,ENSMUSG00000090000,26.1.1,N/A,N/A,N/A,fibroblast_apoptotic_process
+27,MEN1,ENSMUSG00000024947,27.1.1,MEN1,ENSG00000133895,menin 1 [Source:HGNC Symbol;Acc:HGNC:7010],fibroblast_apoptotic_process
+28,MEN1,ENSMUSG00000024947,28.1.1,MEN1,ENSG00000133895,menin 1 [Source:HGNC Symbol;Acc:HGNC:7010],fibroblast_apoptotic_process
+29,MEN1,ENSMUSG00000024947,29.1.1,MEN1,ENSG00000133895,menin 1 [Source:HGNC Symbol;Acc:HGNC:7010],fibroblast_apoptotic_process
+30,MEN1,ENSMUSG00000024947,30.1.1,MEN1,ENSG00000133895,menin 1 [Source:HGNC Symbol;Acc:HGNC:7010],fibroblast_apoptotic_process
+31,MEN1,ENSMUSG00000024947,31.1.1,MEN1,ENSG00000133895,menin 1 [Source:HGNC Symbol;Acc:HGNC:7010],fibroblast_apoptotic_process
+32,MEN1,ENSMUSG00000024947,32.1.1,MEN1,ENSG00000133895,menin 1 [Source:HGNC Symbol;Acc:HGNC:7010],fibroblast_apoptotic_process
+33,NUPR1,ENSMUSG00000030717,33.1.1,NUPR1,ENSG00000176046,"nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]",fibroblast_apoptotic_process
+34,NUPR1,ENSMUSG00000030717,34.1.1,NUPR1,ENSG00000176046,"nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]",fibroblast_apoptotic_process
+35,PIK3CA,ENSMUSG00000027665,35.1.1,PIK3CA,ENSG00000121879,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]",fibroblast_apoptotic_process
+36,PIK3CG,ENSMUSG00000020573,36.1.1,PIK3CG,ENSG00000105851,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]",fibroblast_apoptotic_process
+37,PMAIP1,ENSMUSG00000024521,37.1.1,PMAIP1,ENSG00000141682,phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108],fibroblast_apoptotic_process
+38,PMAIP1,ENSMUSG00000024521,38.1.1,PMAIP1,ENSG00000141682,phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108],fibroblast_apoptotic_process
+39,PRDM11,ENSMUSG00000075028,39.1.1,PRDM11,ENSG00000019485,PR/SET domain 11 [Source:HGNC Symbol;Acc:HGNC:13996],fibroblast_apoptotic_process
+40,SFRP1,ENSMUSG00000031548,40.1.1,SFRP1,ENSG00000104332,secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776],fibroblast_apoptotic_process
+41,SFRP1,ENSMUSG00000031548,41.1.1,SFRP1,ENSG00000104332,secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776],fibroblast_apoptotic_process
+42,SIRT1,ENSMUSG00000020063,42.1.1,SIRT1,ENSG00000096717,sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929],fibroblast_apoptotic_process
+43,SOCS1,ENSMUSG00000038037,43.1.1,SOCS1,ENSG00000185338,suppressor of cytokine signaling 1 [Source:HGNC Symbol;Acc:HGNC:19383],fibroblast_apoptotic_process
+44,STK17B,ENSMUSG00000026094,44.1.1,STK17B,ENSG00000081320,serine/threonine kinase 17b [Source:HGNC Symbol;Acc:HGNC:11396],fibroblast_apoptotic_process
+45,TRP53,ENSMUSG00000059552,45.1.1,TP53,ENSG00000141510,tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998],fibroblast_apoptotic_process
+46,TRP63,ENSMUSG00000022510,46.1.1,TP63,ENSG00000073282,tumor protein p63 [Source:HGNC Symbol;Acc:HGNC:15979],fibroblast_apoptotic_process
+47,XRCC2,ENSMUSG00000028933,47.1.1,XRCC2,ENSG00000196584,X-ray repair cross complementing 2 [Source:HGNC Symbol;Acc:HGNC:12829],fibroblast_apoptotic_process
+1,BMP7,ENSMUSG00000008999,1.1.1,BMP7,ENSG00000101144,bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074],mesenchymal_cell_apoptotic_process
+2,BMP7,ENSMUSG00000008999,2.1.1,BMP7,ENSG00000101144,bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074],mesenchymal_cell_apoptotic_process
+3,DSPP,ENSMUSG00000053268,3.1.1,DSPP,ENSG00000152591,dentin sialophosphoprotein [Source:HGNC Symbol;Acc:HGNC:3054],mesenchymal_cell_apoptotic_process
+4,EDNRA,ENSMUSG00000031616,4.1.1,EDNRA,ENSG00000151617,endothelin receptor type A [Source:HGNC Symbol;Acc:HGNC:3179],mesenchymal_cell_apoptotic_process
+5,ETV6,ENSMUSG00000030199,5.1.1,ETV6,ENSG00000139083,ETS variant transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:3495],mesenchymal_cell_apoptotic_process
+6,GDF5,ENSMUSG00000038259,6.1.1,GDF5,ENSG00000125965,growth differentiation factor 5 [Source:HGNC Symbol;Acc:HGNC:4220],mesenchymal_cell_apoptotic_process
+7,GDF5,ENSMUSG00000038259,7.1.1,GDF5,ENSG00000125965,growth differentiation factor 5 [Source:HGNC Symbol;Acc:HGNC:4220],mesenchymal_cell_apoptotic_process
+8,HIF1A,ENSMUSG00000021109,8.1.1,HIF1A,ENSG00000100644,hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910],mesenchymal_cell_apoptotic_process
+9,HIF1A,ENSMUSG00000021109,9.1.1,HIF1A,ENSG00000100644,hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910],mesenchymal_cell_apoptotic_process
+10,HNF1B,ENSMUSG00000020679,10.1.1,HNF1B,ENSG00000275410,HNF1 homeobox B [Source:HGNC Symbol;Acc:HGNC:11630],mesenchymal_cell_apoptotic_process
+11,HNF1B,ENSMUSG00000020679,11.1.1,HNF1B,ENSG00000275410,HNF1 homeobox B [Source:HGNC Symbol;Acc:HGNC:11630],mesenchymal_cell_apoptotic_process
+12,HNF1B,ENSMUSG00000020679,12.1.1,HNF1B,ENSG00000275410,HNF1 homeobox B [Source:HGNC Symbol;Acc:HGNC:11630],mesenchymal_cell_apoptotic_process
+13,HOXA13,ENSMUSG00000038203,13.1.1,HOXA13,ENSG00000106031,homeobox A13 [Source:HGNC Symbol;Acc:HGNC:5102],mesenchymal_cell_apoptotic_process
+14,HOXA13,ENSMUSG00000038203,14.1.1,HOXA13,ENSG00000106031,homeobox A13 [Source:HGNC Symbol;Acc:HGNC:5102],mesenchymal_cell_apoptotic_process
+15,MSX1,ENSMUSG00000048450,15.1.1,MSX1,ENSG00000163132,msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391],mesenchymal_cell_apoptotic_process
+16,MSX1,ENSMUSG00000048450,16.1.1,MSX1,ENSG00000163132,msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391],mesenchymal_cell_apoptotic_process
+17,MSX1,ENSMUSG00000048450,17.1.1,MSX1,ENSG00000163132,msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391],mesenchymal_cell_apoptotic_process
+18,MSX1,ENSMUSG00000048450,18.1.1,MSX1,ENSG00000163132,msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391],mesenchymal_cell_apoptotic_process
+19,MSX2,ENSMUSG00000021469,19.1.1,MSX2,ENSG00000120149,msh homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7392],mesenchymal_cell_apoptotic_process
+20,MSX2,ENSMUSG00000021469,20.1.1,MSX2,ENSG00000120149,msh homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7392],mesenchymal_cell_apoptotic_process
+21,MSX2,ENSMUSG00000021469,21.1.1,MSX2,ENSG00000120149,msh homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7392],mesenchymal_cell_apoptotic_process
+22,MSX2,ENSMUSG00000021469,22.1.1,MSX2,ENSG00000120149,msh homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7392],mesenchymal_cell_apoptotic_process
+23,PAX2,ENSMUSG00000004231,23.1.1,PAX2,ENSG00000075891,paired box 2 [Source:HGNC Symbol;Acc:HGNC:8616],mesenchymal_cell_apoptotic_process
+24,PAX2,ENSMUSG00000004231,24.1.1,PAX2,ENSG00000075891,paired box 2 [Source:HGNC Symbol;Acc:HGNC:8616],mesenchymal_cell_apoptotic_process
+25,PAX8,ENSMUSG00000026976,25.1.1,PAX8,ENSG00000125618,paired box 8 [Source:HGNC Symbol;Acc:HGNC:8622],mesenchymal_cell_apoptotic_process
+26,PAX8,ENSMUSG00000026976,26.1.1,PAX8,ENSG00000125618,paired box 8 [Source:HGNC Symbol;Acc:HGNC:8622],mesenchymal_cell_apoptotic_process
+27,POU3F4,ENSMUSG00000056854,27.1.1,POU3F4,ENSG00000196767,POU class 3 homeobox 4 [Source:HGNC Symbol;Acc:HGNC:9217],mesenchymal_cell_apoptotic_process
+28,SHH,ENSMUSG00000002633,28.1.1,SHH,ENSG00000164690,sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848],mesenchymal_cell_apoptotic_process
+29,SHH,ENSMUSG00000002633,29.1.1,SHH,ENSG00000164690,sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848],mesenchymal_cell_apoptotic_process
+30,SOX9,ENSMUSG00000000567,30.1.1,SOX9,ENSG00000125398,SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204],mesenchymal_cell_apoptotic_process
+31,SOX9,ENSMUSG00000000567,31.1.1,SOX9,ENSG00000125398,SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204],mesenchymal_cell_apoptotic_process
+32,TBX1,ENSMUSG00000009097,32.1.1,TBX1,ENSG00000184058,T-box transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:11592],mesenchymal_cell_apoptotic_process
+33,TBX1,ENSMUSG00000009097,33.1.1,TBX1,ENSG00000184058,T-box transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:11592],mesenchymal_cell_apoptotic_process
+34,WT1,ENSMUSG00000016458,34.1.1,WT1,ENSG00000184937,WT1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12796],mesenchymal_cell_apoptotic_process
+35,WT1,ENSMUSG00000016458,35.1.1,WT1,ENSG00000184937,WT1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12796],mesenchymal_cell_apoptotic_process
+1,SYMBOL,N/A,1.1.1,N/A,N/A,N/A,myofibroblast_cell_apoptotic_process
+2,SOX2,ENSMUSG00000074637,2.1.1,SOX2,ENSG00000181449,SRY-box transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11195],myofibroblast_cell_apoptotic_process
+3,ZEB2,ENSMUSG00000026872,3.1.1,ZEB2,ENSG00000169554,zinc finger E-box binding homeobox 2 [Source:HGNC Symbol;Acc:HGNC:14881],myofibroblast_cell_apoptotic_process
+1,SYMBOL,N/A,1.1.1,N/A,N/A,N/A,smooth_muscle_cell_apoptotic_process
+2,ADCY10,ENSMUSG00000026567,2.1.1,ADCY10,ENSG00000143199,adenylate cyclase 10 [Source:HGNC Symbol;Acc:HGNC:21285],smooth_muscle_cell_apoptotic_process
+3,AGTR1A,ENSMUSG00000049115,3.1.1,AGTR1,ENSG00000144891,angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336],smooth_muscle_cell_apoptotic_process
+4,AGTR1A,ENSMUSG00000049115,4.1.1,AGTR1,ENSG00000144891,angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336],smooth_muscle_cell_apoptotic_process
+5,APOH,ENSMUSG00000000049,5.1.1,APOH,ENSG00000091583,apolipoprotein H [Source:HGNC Symbol;Acc:HGNC:616],smooth_muscle_cell_apoptotic_process
+6,ARRB1,ENSMUSG00000018909,6.1.1,ARRB1,ENSG00000137486,arrestin beta 1 [Source:HGNC Symbol;Acc:HGNC:711],smooth_muscle_cell_apoptotic_process
+7,ARRB2,ENSMUSG00000060216,7.1.1,ARRB2,ENSG00000141480,arrestin beta 2 [Source:HGNC Symbol;Acc:HGNC:712],smooth_muscle_cell_apoptotic_process
+8,ATF4,ENSMUSG00000042406,8.1.1,ATF4,ENSG00000128272,activating transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:786],smooth_muscle_cell_apoptotic_process
+9,ATF4,ENSMUSG00000042406,9.1.1,ATF4,ENSG00000128272,activating transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:786],smooth_muscle_cell_apoptotic_process
+10,ATF4,ENSMUSG00000042406,10.1.1,ATF4,ENSG00000128272,activating transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:786],smooth_muscle_cell_apoptotic_process
+11,CDKN2A,ENSMUSG00000044303,11.1.1,N/A,N/A,N/A,smooth_muscle_cell_apoptotic_process
+12,CFTR,ENSMUSG00000041301,12.1.1,CFTR,ENSG00000001626,CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884],smooth_muscle_cell_apoptotic_process
+13,DIPK2A,ENSMUSG00000045414,13.1.1,DIPK2A,ENSG00000181744,divergent protein kinase domain 2A [Source:HGNC Symbol;Acc:HGNC:28490],smooth_muscle_cell_apoptotic_process
+14,DIPK2A,ENSMUSG00000045414,14.1.1,DIPK2A,ENSG00000181744,divergent protein kinase domain 2A [Source:HGNC Symbol;Acc:HGNC:28490],smooth_muscle_cell_apoptotic_process
+15,DNMT1,ENSMUSG00000004099,15.1.1,DNMT1,ENSG00000130816,DNA methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2976],smooth_muscle_cell_apoptotic_process
+16,E2F3,ENSMUSG00000016477,16.1.1,E2F3,ENSG00000112242,E2F transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3115],smooth_muscle_cell_apoptotic_process
+17,EDN1,ENSMUSG00000021367,17.1.1,EDN1,ENSG00000078401,endothelin 1 [Source:HGNC Symbol;Acc:HGNC:3176],smooth_muscle_cell_apoptotic_process
+18,GAPDH,ENSMUSG00000057666,18.1.1,GAPDH,ENSG00000111640,glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141],smooth_muscle_cell_apoptotic_process
+19,GAPDHRT,N/A,19.1.1,N/A,N/A,N/A,smooth_muscle_cell_apoptotic_process
+20,GAPDHRT2,N/A,20.1.1,N/A,N/A,N/A,smooth_muscle_cell_apoptotic_process
+21,GRIA4,ENSMUSG00000025892,21.1.1,GRIA4,ENSG00000152578,glutamate ionotropic receptor AMPA type subunit 4 [Source:HGNC Symbol;Acc:HGNC:4574],smooth_muscle_cell_apoptotic_process
+22,GSK3B,ENSMUSG00000022812,22.1.1,GSK3B,ENSG00000082701,glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617],smooth_muscle_cell_apoptotic_process
+23,IFNG,ENSMUSG00000055170,23.1.1,IFNG,ENSG00000111537,interferon gamma [Source:HGNC Symbol;Acc:HGNC:5438],smooth_muscle_cell_apoptotic_process
+24,IGF1,ENSMUSG00000020053,24.1.1,IGF1,ENSG00000017427,insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464],smooth_muscle_cell_apoptotic_process
+25,IGF1,ENSMUSG00000020053,25.1.1,IGF1,ENSG00000017427,insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464],smooth_muscle_cell_apoptotic_process
+26,IL12A,ENSMUSG00000027776,26.1.1,IL12A,ENSG00000168811,interleukin 12A [Source:HGNC Symbol;Acc:HGNC:5969],smooth_muscle_cell_apoptotic_process
+27,IL12B,ENSMUSG00000004296,27.1.1,IL12B,ENSG00000113302,interleukin 12B [Source:HGNC Symbol;Acc:HGNC:5970],smooth_muscle_cell_apoptotic_process
+28,LRP6,ENSMUSG00000030201,28.1.1,LRP6,ENSG00000070018,LDL receptor related protein 6 [Source:HGNC Symbol;Acc:HGNC:6698],smooth_muscle_cell_apoptotic_process
+29,LYPD3,ENSMUSG00000057454,29.1.1,LYPD3,ENSG00000124466,LY6/PLAUR domain containing 3 [Source:HGNC Symbol;Acc:HGNC:24880],smooth_muscle_cell_apoptotic_process
+30,MAP2K4,ENSMUSG00000033352,30.1.1,MAP2K4,ENSG00000065559,mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844],smooth_muscle_cell_apoptotic_process
+31,MFN2,ENSMUSG00000029020,31.1.1,MFN2,ENSG00000116688,mitofusin 2 [Source:HGNC Symbol;Acc:HGNC:16877],smooth_muscle_cell_apoptotic_process
+32,NR4A3,ENSMUSG00000028341,32.1.1,NR4A3,ENSG00000119508,nuclear receptor subfamily 4 group A member 3 [Source:HGNC Symbol;Acc:HGNC:7982],smooth_muscle_cell_apoptotic_process
+33,NR4A3,ENSMUSG00000028341,33.1.1,NR4A3,ENSG00000119508,nuclear receptor subfamily 4 group A member 3 [Source:HGNC Symbol;Acc:HGNC:7982],smooth_muscle_cell_apoptotic_process
+34,PDCD4,ENSMUSG00000024975,34.1.1,PDCD4,ENSG00000150593,programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763],smooth_muscle_cell_apoptotic_process
+35,PDCD4,ENSMUSG00000024975,35.1.1,PDCD4,ENSG00000150593,programmed cell death 4 [Source:HGNC Symbol;Acc:HGNC:8763],smooth_muscle_cell_apoptotic_process
+36,PDE1A,ENSMUSG00000059173,36.1.1,PDE1A,ENSG00000115252,phosphodiesterase 1A [Source:HGNC Symbol;Acc:HGNC:8774],smooth_muscle_cell_apoptotic_process
+37,PPARG,ENSMUSG00000000440,37.1.1,PPARG,ENSG00000132170,peroxisome proliferator activated receptor gamma [Source:HGNC Symbol;Acc:HGNC:9236],smooth_muscle_cell_apoptotic_process
+38,RBM10,ENSMUSG00000031060,38.1.1,RBM10,ENSG00000182872,RNA binding motif protein 10 [Source:HGNC Symbol;Acc:HGNC:9896],smooth_muscle_cell_apoptotic_process
+39,RBM10,ENSMUSG00000031060,39.1.1,RBM10,ENSG00000182872,RNA binding motif protein 10 [Source:HGNC Symbol;Acc:HGNC:9896],smooth_muscle_cell_apoptotic_process
+40,RBM10,ENSMUSG00000031060,40.1.1,RBM10,ENSG00000182872,RNA binding motif protein 10 [Source:HGNC Symbol;Acc:HGNC:9896],smooth_muscle_cell_apoptotic_process
+41,SIRT1,ENSMUSG00000020063,41.1.1,SIRT1,ENSG00000096717,sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929],smooth_muscle_cell_apoptotic_process
+42,SLC7A5,ENSMUSG00000040010,42.1.1,SLC7A5,ENSG00000103257,solute carrier family 7 member 5 [Source:HGNC Symbol;Acc:HGNC:11063],smooth_muscle_cell_apoptotic_process
+43,SOD2,ENSMUSG00000006818,43.1.1,SOD2,ENSG00000291237,superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180],smooth_muscle_cell_apoptotic_process
+44,STK4,ENSMUSG00000018209,44.1.1,STK4,ENSG00000101109,serine/threonine kinase 4 [Source:HGNC Symbol;Acc:HGNC:11408],smooth_muscle_cell_apoptotic_process

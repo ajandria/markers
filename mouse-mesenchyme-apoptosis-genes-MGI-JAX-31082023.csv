@@ -1,0 +1,128 @@
+MGI_Gene_Marker_ID,Symbol,Name,Chr,Qualifier,Annotated_Term,Context,Proteoform,Evidence,Inferred_From,Reference(s),component
+MGI:88039,Apc,"APC, WNT signaling pathway regulator",18,NA,fibroblast apoptotic process,happens in fibroblast,NA,IMP,NA,J:119076,fibroblast_apoptotic_process
+MGI:88039,Apc,"APC, WNT signaling pathway regulator",18,NA,positive regulation of fibroblast apoptotic process,positively regulates fibroblast apoptotic process,NA,IMP,NA,J:119076,fibroblast_apoptotic_process
+MGI:1888993,Api5,apoptosis inhibitor 5,2,NA,fibroblast apoptotic process,happens in fibroblast,NA,IDA,NA,J:42738,fibroblast_apoptotic_process
+MGI:1888993,Api5,apoptosis inhibitor 5,2,NA,negative regulation of fibroblast apoptotic process,negatively regulates fibroblast apoptotic process,NA,IDA,NA,J:42738,fibroblast_apoptotic_process
+MGI:1097161,Bak1,BCL2-antagonist/killer 1,17,NA,fibroblast apoptotic process,NA,NA,IMP,NA,J:114727,fibroblast_apoptotic_process
+MGI:2181667,Bbc3,BCL2 binding component 3,7,NA,fibroblast apoptotic process,happens in fibroblast,NA,IMP,MGI:2681654,J:86466,fibroblast_apoptotic_process
+MGI:2181667,Bbc3,BCL2 binding component 3,7,NA,positive regulation of fibroblast apoptotic process,positively regulates fibroblast apoptotic process,NA,IMP,MGI:2681654,J:86466,fibroblast_apoptotic_process
+MGI:1197519,Bcl2l11,BCL2 like 11,2,NA,positive regulation of fibroblast apoptotic process,NA,NA,ISO,O43521,J:164563,fibroblast_apoptotic_process
+MGI:1337994,Bcl10,B cell leukemia/lymphoma 10,3,NOT,fibroblast apoptotic process,NA,NA,IMP,MGI:2158304,J:67297,fibroblast_apoptotic_process
+MGI:108093,Bid,BH3 interacting domain death agonist,6,NA,positive regulation of fibroblast apoptotic process,NA,NA,IDA,NA,J:36730,fibroblast_apoptotic_process
+MGI:88215,Btg1,BTG anti-proliferation factor 1,10,NA,positive regulation of fibroblast apoptotic process,NA,NA,ISO,P62324,J:164563,fibroblast_apoptotic_process
+MGI:107739,Casp3,caspase 3,8,NA,fibroblast apoptotic process,happens in fibroblast,NA,IDA,NA,J:84272,fibroblast_apoptotic_process
+MGI:107739,Casp3,caspase 3,8,NA,fibroblast apoptotic process,happens in fibroblast,NA,IMP,MGI:2158753,J:105496,fibroblast_apoptotic_process
+MGI:109383,Casp7,caspase 7,19,NA,fibroblast apoptotic process,happens in fibroblast,NA,IGI,MGI:107739,J:105496,fibroblast_apoptotic_process
+MGI:1277950,Casp9,caspase 9,4,NA,fibroblast apoptotic process,happens in fibroblast,NA,IDA,NA,J:84272,fibroblast_apoptotic_process
+MGI:1312922,Casp12,caspase 12,9,NA,fibroblast apoptotic process,happens in fibroblast,NA,IDA,NA,J:84272,fibroblast_apoptotic_process
+MGI:1344403,Cfdp1,craniofacial development protein 1,8,NA,fibroblast apoptotic process,happens in fibroblast,NA,IDA,NA,J:78447,fibroblast_apoptotic_process
+MGI:1344403,Cfdp1,craniofacial development protein 1,8,NA,negative regulation of fibroblast apoptotic process,negatively regulates fibroblast apoptotic process,NA,IDA,NA,J:78447,fibroblast_apoptotic_process
+MGI:1915022,Chd8,chromodomain helicase DNA binding protein 8,14,NA,negative regulation of fibroblast apoptotic process,NA,NA,IDA,NA,J:146960,fibroblast_apoptotic_process
+MGI:1347360,Cul3,cullin 3,1,NA,fibroblast apoptotic process,NA,NA,IMP,MGI:3714267,J:122228,fibroblast_apoptotic_process
+MGI:1921291,Ddias,DNA damage-induced apoptosis suppressor,7,NA,fibroblast apoptotic process,happens in fibroblast,NA,IMP,NA,J:123623,fibroblast_apoptotic_process
+MGI:1921291,Ddias,DNA damage-induced apoptosis suppressor,7,NA,negative regulation of fibroblast apoptotic process,negatively regulates fibroblast apoptotic process,NA,IMP,NA,J:123623,fibroblast_apoptotic_process
+MGI:95660,Gas6,growth arrest specific 6,8,NA,fibroblast apoptotic process,happens in fibroblast,NA,IMP,MGI:2675495,J:90648,fibroblast_apoptotic_process
+MGI:95660,Gas6,growth arrest specific 6,8,NA,negative regulation of fibroblast apoptotic process,"negatively regulates apoptotic process,negatively regulates fibroblast apoptotic process",NA,IMP,MGI:2675495,J:90648,fibroblast_apoptotic_process
+MGI:95660,Gas6,growth arrest specific 6,8,NA,negative regulation of fibroblast apoptotic process,NA,NA,ISO,Q14393,J:164563,fibroblast_apoptotic_process
+MGI:1913441,Ier3ip1,immediate early response 3 interacting protein 1,18,NA,regulation of fibroblast apoptotic process,NA,NA,ISO,Q9Y5U9,J:164563,fibroblast_apoptotic_process
+MGI:1316736,Men1,multiple endocrine neoplasia 1,19,NA,fibroblast apoptotic process,happens in fibroblast,NA,IDA,NA,J:88866,fibroblast_apoptotic_process
+MGI:1316736,Men1,multiple endocrine neoplasia 1,19,NA,fibroblast apoptotic process,happens in fibroblast,NA,IGI,MGI:1097161,J:88866,fibroblast_apoptotic_process
+MGI:1316736,Men1,multiple endocrine neoplasia 1,19,NA,fibroblast apoptotic process,happens in fibroblast,NA,IGI,MGI:99702,J:88866,fibroblast_apoptotic_process
+MGI:1316736,Men1,multiple endocrine neoplasia 1,19,NA,positive regulation of fibroblast apoptotic process,positively regulates fibroblast apoptotic process,NA,IDA,NA,J:88866,fibroblast_apoptotic_process
+MGI:1316736,Men1,multiple endocrine neoplasia 1,19,NA,positive regulation of fibroblast apoptotic process,positively regulates fibroblast apoptotic process,NA,IGI,MGI:1097161,J:88866,fibroblast_apoptotic_process
+MGI:1316736,Men1,multiple endocrine neoplasia 1,19,NA,positive regulation of fibroblast apoptotic process,positively regulates fibroblast apoptotic process,NA,IGI,MGI:99702,J:88866,fibroblast_apoptotic_process
+MGI:1891834,Nupr1,nuclear protein transcription regulator 1,7,NA,fibroblast apoptotic process,happens in fibroblast,NA,IMP,MGI:3784016,J:133728,fibroblast_apoptotic_process
+MGI:1891834,Nupr1,nuclear protein transcription regulator 1,7,NA,positive regulation of fibroblast apoptotic process,positively regulates fibroblast apoptotic process,NA,IMP,MGI:3784016,J:133728,fibroblast_apoptotic_process
+MGI:1206581,Pik3ca,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",3,NA,negative regulation of fibroblast apoptotic process,NA,NA,IDA,NA,J:91529,fibroblast_apoptotic_process
+MGI:1353576,Pik3cg,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma",12,NA,negative regulation of fibroblast apoptotic process,NA,NA,IDA,NA,J:91529,fibroblast_apoptotic_process
+MGI:1930146,Pmaip1,phorbol-12-myristate-13-acetate-induced protein 1,18,NA,fibroblast apoptotic process,happens in fibroblast,NA,IMP,MGI:2681649,J:86466,fibroblast_apoptotic_process
+MGI:1930146,Pmaip1,phorbol-12-myristate-13-acetate-induced protein 1,18,NA,positive regulation of fibroblast apoptotic process,positively regulates fibroblast apoptotic process,NA,IMP,MGI:2681649,J:86466,fibroblast_apoptotic_process
+MGI:2685553,Prdm11,PR domain containing 11,2,NA,positive regulation of fibroblast apoptotic process,NA,NA,ISO,Q9NQV5,J:164563,fibroblast_apoptotic_process
+MGI:892014,Sfrp1,secreted frizzled-related protein 1,8,NA,negative regulation of fibroblast apoptotic process,NA,NA,ISO,Q8N474,J:164563,fibroblast_apoptotic_process
+MGI:892014,Sfrp1,secreted frizzled-related protein 1,8,NA,positive regulation of fibroblast apoptotic process,NA,NA,ISO,Q8N474,J:164563,fibroblast_apoptotic_process
+MGI:2135607,Sirt1,sirtuin 1,10,NA,negative regulation of fibroblast apoptotic process,NA,NA,ISO,RGD:1308542,J:155856,fibroblast_apoptotic_process
+MGI:1354910,Socs1,suppressor of cytokine signaling 1,16,NA,positive regulation of fibroblast apoptotic process,NA,NA,ISO,RGD:69272,J:155856,fibroblast_apoptotic_process
+MGI:2138162,Stk17b,serine/threonine kinase 17b (apoptosis-inducing),1,NA,positive regulation of fibroblast apoptotic process,NA,NA,ISO,O94768,J:164563,fibroblast_apoptotic_process
+MGI:98834,Trp53,transformation related protein 53,11,NA,regulation of fibroblast apoptotic process,NA,NA,IGI,MGI:1927345,J:120961,fibroblast_apoptotic_process
+MGI:1330810,Trp63,transformation related protein 63,16,NA,positive regulation of fibroblast apoptotic process,NA,NA,ISO,Q9H3D4,J:164563,fibroblast_apoptotic_process
+MGI:1927345,Xrcc2,X-ray repair complementing defective repair in Chinese hamster cells 2,5,NA,regulation of fibroblast apoptotic process,NA,NA,IGI,MGI:98834,J:120961,fibroblast_apoptotic_process
+MGI:103302,Bmp7,bone morphogenetic protein 7,2,NA,mesenchymal cell apoptotic process involved in nephron morphogenesis,"happens in metanephros,happens in nephrogenic mesenchyme stem cell",NA,IMP,MGI:1857654,J:39018,mesenchymal_cell_apoptotic_process
+MGI:103302,Bmp7,bone morphogenetic protein 7,2,NA,negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis,negatively regulates mesenchymal cell apoptotic process involved in nephron morphogenesis,NA,IMP,MGI:1857654,J:39018,mesenchymal_cell_apoptotic_process
+MGI:109172,Dspp,dentin sialophosphoprotein,5,NA,negative regulation of mesenchymal cell apoptotic process,NA,NA,IMP,MGI:2653208,J:113417,mesenchymal_cell_apoptotic_process
+MGI:105923,Ednra,endothelin receptor type A,8,NA,mesenchymal cell apoptotic process,NA,NA,IMP,MGI:1857473,J:118663,mesenchymal_cell_apoptotic_process
+MGI:109336,Etv6,ets variant 6,6,NA,mesenchymal cell apoptotic process,NA,NA,IMP,MGI:2177950,J:42409,mesenchymal_cell_apoptotic_process
+MGI:95688,Gdf5,growth differentiation factor 5,2,NA,mesenchymal cell apoptotic process,"happens in forelimb digit 3 phalanx cartilage condensation,happens in forelimb digit 5 phalanx cartilage condensation,happens in forelimb digit 1 phalanx cartilage condensation,happens in mesenchymal stem cell,happens in forelimb digit 2 phalanx cartilage condensation,happens in forelimb digit 4 phalanx cartilage condensation",NA,IMP,MGI:1855974,J:94510,mesenchymal_cell_apoptotic_process
+MGI:95688,Gdf5,growth differentiation factor 5,2,NA,negative regulation of mesenchymal cell apoptotic process,negatively regulates mesenchymal cell apoptotic process,NA,IMP,MGI:1855974,J:94510,mesenchymal_cell_apoptotic_process
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,NA,mesenchymal cell apoptotic process,"happens in mesenchymal stem cell,happens in embryo",NA,IMP,MGI:1857719,J:55063,mesenchymal_cell_apoptotic_process
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,NA,negative regulation of mesenchymal cell apoptotic process,negatively regulates mesenchymal cell apoptotic process,NA,IMP,MGI:1857719,J:55063,mesenchymal_cell_apoptotic_process
+MGI:98505,Hnf1b,HNF1 homeobox B,11,NA,mesenchymal cell apoptotic process involved in metanephros development,"happens in metanephros,happens in mesenchymal stem cell",NA,IMP,MGI:1857856,J:157251,mesenchymal_cell_apoptotic_process
+MGI:98505,Hnf1b,HNF1 homeobox B,11,NA,negative regulation of mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis,NA,NA,IMP,MGI:1857856,J:157251,mesenchymal_cell_apoptotic_process
+MGI:98505,Hnf1b,HNF1 homeobox B,11,NA,negative regulation of mesenchymal cell apoptotic process involved in metanephros development,negatively regulates mesenchymal cell apoptotic process involved in metanephros development,NA,IMP,MGI:1857856,J:157251,mesenchymal_cell_apoptotic_process
+MGI:96173,Hoxa13,homeobox A13,6,NA,mesenchymal cell apoptotic process,"happens in mesenchymal stem cell,happens in genital tubercle",NA,IMP,MGI:2152356,J:83431,mesenchymal_cell_apoptotic_process
+MGI:96173,Hoxa13,homeobox A13,6,NA,positive regulation of mesenchymal cell apoptotic process,positively regulates mesenchymal cell apoptotic process,NA,IMP,MGI:2152356,J:83431,mesenchymal_cell_apoptotic_process
+MGI:97168,Msx1,msh homeobox 1,5,NA,mesenchymal cell apoptotic process,"happens in mesenchymal stem cell,happens in hindlimb bud mesenchyme",NA,IGI,MGI:97169,J:150759,mesenchymal_cell_apoptotic_process
+MGI:97168,Msx1,msh homeobox 1,5,NA,mesenchymal cell apoptotic process,"happens in hindlimb bud mesenchyme,happens in mesenchymal stem cell",NA,IGI,MGI:98297,J:150759,mesenchymal_cell_apoptotic_process
+MGI:97168,Msx1,msh homeobox 1,5,NA,positive regulation of mesenchymal cell apoptotic process,positively regulates mesenchymal cell apoptotic process,NA,IGI,MGI:97169,J:150759,mesenchymal_cell_apoptotic_process
+MGI:97168,Msx1,msh homeobox 1,5,NA,positive regulation of mesenchymal cell apoptotic process,positively regulates mesenchymal cell apoptotic process,NA,IGI,MGI:98297,J:150759,mesenchymal_cell_apoptotic_process
+MGI:97169,Msx2,msh homeobox 2,13,NA,mesenchymal cell apoptotic process,"happens in mesenchymal stem cell,happens in hindlimb bud mesenchyme",NA,IGI,MGI:97168,J:150759,mesenchymal_cell_apoptotic_process
+MGI:97169,Msx2,msh homeobox 2,13,NA,mesenchymal cell apoptotic process,"happens in hindlimb bud mesenchyme,happens in mesenchymal stem cell",NA,IGI,MGI:98297,J:150759,mesenchymal_cell_apoptotic_process
+MGI:97169,Msx2,msh homeobox 2,13,NA,positive regulation of mesenchymal cell apoptotic process,positively regulates mesenchymal cell apoptotic process,NA,IGI,MGI:97168,J:150759,mesenchymal_cell_apoptotic_process
+MGI:97169,Msx2,msh homeobox 2,13,NA,positive regulation of mesenchymal cell apoptotic process,positively regulates mesenchymal cell apoptotic process,NA,IGI,MGI:98297,J:150759,mesenchymal_cell_apoptotic_process
+MGI:97486,Pax2,paired box 2,19,NA,negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis,NA,NA,IMP,NA,J:120229,mesenchymal_cell_apoptotic_process
+MGI:97486,Pax2,paired box 2,19,NA,negative regulation of mesenchymal cell apoptotic process involved in metanephros development,NA,NA,IMP,NA,J:120229,mesenchymal_cell_apoptotic_process
+MGI:97492,Pax8,paired box 8,2,NA,negative regulation of mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis,NA,NA,IMP,NA,J:120229,mesenchymal_cell_apoptotic_process
+MGI:97492,Pax8,paired box 8,2,NA,negative regulation of mesenchymal cell apoptotic process involved in metanephros development,NA,NA,IMP,NA,J:120229,mesenchymal_cell_apoptotic_process
+MGI:101894,Pou3f4,"POU domain, class 3, transcription factor 4",X,NA,negative regulation of mesenchymal cell apoptotic process,NA,NA,IGI,P70323,J:175160,mesenchymal_cell_apoptotic_process
+MGI:98297,Shh,sonic hedgehog,5,NA,mesenchymal cell apoptotic process,"happens in mesenchymal stem cell,happens in hindlimb bud mesenchyme",NA,IMP,MGI:1934261,J:150759,mesenchymal_cell_apoptotic_process
+MGI:98297,Shh,sonic hedgehog,5,NA,negative regulation of mesenchymal cell apoptotic process,negatively regulates mesenchymal cell apoptotic process,NA,IMP,MGI:1934261,J:150759,mesenchymal_cell_apoptotic_process
+MGI:98371,Sox9,SRY (sex determining region Y)-box 9,11,NA,mesenchymal cell apoptotic process,"happens in left lung mesenchyme,happens in mesenchymal stem cell,happens in right lung mesenchyme",NA,IMP,MGI:2385468,J:202949,mesenchymal_cell_apoptotic_process
+MGI:98371,Sox9,SRY (sex determining region Y)-box 9,11,NA,negative regulation of mesenchymal cell apoptotic process,"happens in epithelial cell of lung,negatively regulates mesenchymal cell apoptotic process",NA,IMP,MGI:2385468,J:202949,mesenchymal_cell_apoptotic_process
+MGI:98493,Tbx1,T-box 1,16,NA,mesenchymal cell apoptotic process,NA,NA,IMP,NA,J:175160,mesenchymal_cell_apoptotic_process
+MGI:98493,Tbx1,T-box 1,16,NA,negative regulation of mesenchymal cell apoptotic process,NA,NA,IGI,P62515,J:175160,mesenchymal_cell_apoptotic_process
+MGI:98968,Wt1,WT1 transcription factor,2,NA,mesenchymal cell apoptotic process involved in metanephros development,"happens in metanephric mesenchyme stem cell,happens in cap mesenchyme",NA,IMP,MGI:1857268,J:14317,mesenchymal_cell_apoptotic_process
+MGI:98968,Wt1,WT1 transcription factor,2,NA,negative regulation of mesenchymal cell apoptotic process involved in metanephros development,negatively regulates mesenchymal cell apoptotic process involved in metanephros development,NA,IMP,MGI:1857268,J:14317,mesenchymal_cell_apoptotic_process
+MGI:98364,Sox2,SRY (sex determining region Y)-box 2,3,NA,regulation of myofibroblast cell apoptotic process,NA,NA,ISO,RGD:1565646,J:155856,myofibroblast_cell_apoptotic_process
+MGI:1344407,Zeb2,zinc finger E-box binding homeobox 2,2,NA,regulation of myofibroblast cell apoptotic process,NA,NA,ISO,RGD:1307272,J:155856,myofibroblast_cell_apoptotic_process
+MGI:2660854,Adcy10,adenylate cyclase 10,1,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,RGD:708450,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:87964,Agtr1a,"angiotensin II receptor, type 1a",13,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,IMP,NA,J:154247,smooth_muscle_cell_apoptotic_process
+MGI:87964,Agtr1a,"angiotensin II receptor, type 1a",13,NA,regulation of vascular associated smooth muscle cell apoptotic process,regulates vascular associated smooth muscle cell apoptotic process,NA,IGI,MGI:2384310,J:154247,smooth_muscle_cell_apoptotic_process
+MGI:88058,Apoh,apolipoprotein H,11,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,ISO,P02749,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:99473,Arrb1,"arrestin, beta 1",7,NA,positive regulation of smooth muscle cell apoptotic process,NA,NA,ISO,RGD:2156,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:99474,Arrb2,"arrestin, beta 2",11,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,ISO,RGD:2157,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:88096,Atf4,activating transcription factor 4,15,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,happens in aortic sinus,NA,IMP,MGI:2180373,J:237331,smooth_muscle_cell_apoptotic_process
+MGI:88096,Atf4,activating transcription factor 4,15,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,happens in aortic sinus,NA,IMP,MGI:3819270 MGI:5550363,J:237331,smooth_muscle_cell_apoptotic_process
+MGI:88096,Atf4,activating transcription factor 4,15,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,happens in aortic sinus,NA,IMP,MGI:3819270 MGI:5812282,J:237331,smooth_muscle_cell_apoptotic_process
+MGI:104738,Cdkn2a,cyclin dependent kinase inhibitor 2A,4,NA,positive regulation of smooth muscle cell apoptotic process,NA,NA,IGI,P08226,J:170042,smooth_muscle_cell_apoptotic_process
+MGI:88388,Cftr,cystic fibrosis transmembrane conductance regulator,6,NA,negative regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,RGD:2332,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:1916111,Dipk2a,divergent protein kinase domain 2A,9,NA,negative regulation of smooth muscle cell apoptotic process,happens in heart,NA,IMP,NA,J:224961,smooth_muscle_cell_apoptotic_process
+MGI:1916111,Dipk2a,divergent protein kinase domain 2A,9,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,ISO,Q8NDZ4,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:94912,Dnmt1,DNA methyltransferase 1,9,NA,negative regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,P26358,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:1096340,E2f3,E2F transcription factor 3,13,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,O00716,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:95283,Edn1,endothelin 1,13,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,ISO,RGD:2532,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:95640,Gapdh,glyceraldehyde-3-phosphate dehydrogenase,6,NA,negative regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,RGD:2661,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:3782011,Gapdhrt,"glyceraldehyde-3-phosphate dehydrogenase, retrotransposed",14,NA,negative regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,RGD:2661,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:3708786,Gapdhrt2,"glyceraldehyde-3-phosphate dehydrogenase, retrotransposed 2",8,NA,negative regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,RGD:2661,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:95811,Gria4,"glutamate receptor, ionotropic, AMPA4 (alpha 4)",9,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,ISO,P48058,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:1861437,Gsk3b,glycogen synthase kinase 3 beta,16,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,ISO,RGD:70982,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:107656,Ifng,interferon gamma,10,NA,positive regulation of smooth muscle cell apoptotic process,NA,NA,ISO,P01579,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:96432,Igf1,insulin-like growth factor 1,10,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,ISO,P05019,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:96432,Igf1,insulin-like growth factor 1,10,NA,negative regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,P05019,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:96539,Il12a,interleukin 12a,3,NA,positive regulation of smooth muscle cell apoptotic process,NA,NA,ISO,P29459,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:96540,Il12b,interleukin 12b,11,NA,positive regulation of smooth muscle cell apoptotic process,NA,NA,ISO,P29460,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:1298218,Lrp6,low density lipoprotein receptor-related protein 6,6,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,ISO,O75581,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:1919684,Lypd3,Ly6/Plaur domain containing 3,7,NA,negative regulation of smooth muscle cell apoptotic process,NA,NA,ISO,O95274,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:1346869,Map2k4,mitogen-activated protein kinase kinase 4,11,NA,smooth muscle cell apoptotic process,happens in vascular associated smooth muscle cell,NA,IDA,NA,J:231249,smooth_muscle_cell_apoptotic_process
+MGI:2442230,Mfn2,mitofusin 2,4,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,O95140,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:1352457,Nr4a3,"nuclear receptor subfamily 4, group A, member 3",4,NA,negative regulation of smooth muscle cell apoptotic process,negatively regulates smooth muscle cell apoptotic process,NA,IMP,MGI:3037444,J:165911,smooth_muscle_cell_apoptotic_process
+MGI:1352457,Nr4a3,"nuclear receptor subfamily 4, group A, member 3",4,NA,smooth muscle cell apoptotic process,happens in smooth muscle cell,NA,IMP,MGI:3037444,J:165911,smooth_muscle_cell_apoptotic_process
+MGI:107490,Pdcd4,programmed cell death 4,19,NA,positive regulation of smooth muscle cell apoptotic process,NA,NA,ISO,RGD:620816,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:107490,Pdcd4,programmed cell death 4,19,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,Q53EL6,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:1201792,Pde1a,"phosphodiesterase 1A, calmodulin-dependent",2,NA,regulation of smooth muscle cell apoptotic process,NA,NA,ISO,RGD:68329,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:97747,Pparg,peroxisome proliferator activated receptor gamma,6,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,P37231,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:2384310,Rbm10,RNA binding motif protein 10,X,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,positively regulates vascular associated smooth muscle cell apoptotic process,NA,IDA,NA,J:154247,smooth_muscle_cell_apoptotic_process
+MGI:2384310,Rbm10,RNA binding motif protein 10,X,NA,regulation of vascular associated smooth muscle cell apoptotic process,regulates vascular associated smooth muscle cell apoptotic process,NA,IGI,MGI:87964,J:154247,smooth_muscle_cell_apoptotic_process
+MGI:2384310,Rbm10,RNA binding motif protein 10,X,NA,vascular associated smooth muscle cell apoptotic process,happens in vascular associated smooth muscle cell,NA,IDA,NA,J:154247,smooth_muscle_cell_apoptotic_process
+MGI:2135607,Sirt1,sirtuin 1,10,NA,regulation of smooth muscle cell apoptotic process,NA,NA,IDA,NA,J:180466,smooth_muscle_cell_apoptotic_process
+MGI:1298205,Slc7a5,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 5",8,NA,negative regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,RGD:620639,J:155856,smooth_muscle_cell_apoptotic_process
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,P04179,J:164563,smooth_muscle_cell_apoptotic_process
+MGI:1929004,Stk4,serine/threonine kinase 4,2,NA,positive regulation of vascular associated smooth muscle cell apoptotic process,NA,NA,ISO,RGD:1312035,J:155856,smooth_muscle_cell_apoptotic_process
